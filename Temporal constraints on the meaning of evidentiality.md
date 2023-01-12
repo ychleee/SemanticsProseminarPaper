@@ -9,6 +9,7 @@ publish:
 ---
 ## Content Summary
 ### Abstract
+
 ### 1. Introduction
 ### 2. Evidentiality: direct vs. indirect evidence types
 #### 2.1 Compatibility with direct evidence

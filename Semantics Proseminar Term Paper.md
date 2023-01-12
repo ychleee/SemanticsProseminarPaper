@@ -27,13 +27,13 @@ ________
 
 #### Kind of Main
 ##### Lee(2010): [[The Korean evidential -te; A modal analysis]]
-##### Lim(2010): Evidentials in interrogatives; A Case stdy of Korean.
+##### Lim(2010): [[Evidentials in interrogatives; A Case stdy of Korean.]]
 
 _____
 ### Peripheral
 #### Introductory
 ##### Evidentiality, Part I, Part II(Johan Rooryck)
-##### Evidentials as Generlized Functinonal Heads (Peggy Speas)
+##### [[Evidentials as Generlized Functinonal Heads (Peggy Speas]])
 ##### The Grammaticalization of Evidentiality (Alexandra Y. Aikhenvald)
 
 #### Whatever
