@@ -1,8 +1,17 @@
 ---
 tags: ["#" ]
-aliases: [""]
+aliases: []
 ---
 [[Semantics Proseminar 2022Fall]]
+[[MVP-Evidentiality as Perspectiveness- Analysis of Korean morpheme '-te']]
+## Structure
+### Abstract
+### Evidentiality as Perspectiveness thesis? (Or, '-te' )
+- korean '-te' expresses 
+### Comparison with Chung's account
+- Chung's account:
+### Comparison with Lee's account
+#### Lee's acccount:
 
 ## Arguments
 ### Main argument?
@@ -27,7 +36,8 @@ ________
 
 #### Kind of Main
 ##### Lee(2010): [[The Korean evidential -te; A modal analysis]]
-##### Lim(2010): [[Evidentials in interrogatives; A Case stdy of Korean.]]
+##### Lim(2010): [[Evidentials in interrogatives; A Case study of Korean.]]
+##### Lim(2012): [[Korean Evidential -te- Inference from Direct Evidence]]
 
 _____
 ### Peripheral
