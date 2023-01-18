@@ -48,8 +48,6 @@
 ```
 
 
-Lala
-Lolo
-Lili
-Lyulu
-Lyolo
+Mala
+Molo
+Muluk
