@@ -48,8 +48,8 @@
 ```
 
 
-Lala
-Lolo
-Lili
-Lyulu
-Lyolo
+gala
+golo
+gili
+gyulu
+gyolo
