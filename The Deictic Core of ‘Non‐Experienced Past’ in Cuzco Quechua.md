@@ -11,6 +11,8 @@ publish:
 # Content Summary
 
 ## Abstract
+Many typologically distinct languages express indirect evidentiality in their tense/aspect system. This paper studies the past tense marker -*sqa* of Cuzco Quechua which gives rise to indirect evidential interpretations. In Quechua, evidentiality is primarily expressed by a system of enclitics which specify the speaker’s type of source of information as the best possible, reportative, or conjectural. This paper argues that -*sqa* is not of the same type as these enclitics. The latter encode an evidential relation between the speaker and the proposition expressed, but -*sqa* does not. -sqa *sqa* also not encode an epistemic relation as has been argued for similar markers of other languages. Instead, -*sqa* is analysed as a deictic element which locates the described eventuality outside the speaker’s perceptual field at topic time. The evidential interpretations associated with -*sqa* arise only indirectly from this spatial meaning. The Quechua data suggest that two types of evidentiality have to be distinguished: propositional-level evidentiality, which is a relation between the speaker and the proposition, and event-level evidentiality, which, in the case of Quechua, is deictically induced.
+
 ## 1. INTRODUCTION
 ### 1.1 The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua
 ### 1.2 Tense in Cuzco Quechua
