@@ -48,8 +48,8 @@
 ```
 
 
-gala
-golo
-gili
-gyulu
-gyolo
+
+Mala
+Molo
+Muluk
+
