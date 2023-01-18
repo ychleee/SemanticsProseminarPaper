@@ -25,12 +25,16 @@ Sohn claims that a sentence with -te must describe a situation that the speaker 
 - Section 5: Universial Hierachy functional projections. 
 ## 2. Evidential approaches
 ### 2.1 Constraints on -te
-#### Speaker's Personal Obeservation Contraint
+#### Speaker's Personal Obeservation Constraint
+> [!note] Speaker's Personal Observation Constraint
+> >A sentence with -te- must describe a situation that the speaker witnessed.
 - according to Suh (1977, 1996, p. 328), a sentence with -te must express a situation that the speaker observed
-- Sohn (1994), as mentioned before (see (2)), also claims that a sentence with -te must describe a situation that the speaker wit- nessed
+- Sohn (1994), as mentioned before (see (2)), also claims that a sentence with -te must describe a situation that the speaker witnessed
 #### Equi-Subject Constraint
-- the subject of a sentence with -te must be the speaker, 
-- It only applies to sensory or psych predicates, such as oylop ‘be lonely’ or coh ‘be good’ (or ‘like’), as shown in (5) and (6):
+> [!note] Equi-subject Constraint
+> In case of sensory or psych predicates (such as '외롭', '좋)**
+>>  the subject of a sentence with -te- must be the speaker, 
+C:: 🤔 Why? because, those sensory and psych observations are only ==accessible to speaker.== 
 ###### 5 a b
 Data:: 5a) 그때는 내가/나는 외롭더라
 	- [I felt] I was lonely at that time.
@@ -42,16 +46,17 @@ Data:: 6a) 그때는 내가/나는 매리가 좋더라.
 Data:: 6b) # 그때는 존이/존은/ 매리가 좋더라.
 	- [I felt] John liked Mary at that time.
 #### Non-Equi-Subject Constraint
-- The subject of the sentence -te cannot be the speaker, 
-- It applies to all predicates except for sensory and psych predicates, as illustrated in 7 and 8
-
+> [!note] Non-Equi-Subject Constraint
+> In case of predicates except for sensory and psych predicates, 
+> > The subject of the sentence -te cannot be the speaker, 
 ###### 7 a b
 Data:: 7a) 메리가/는 학교에 가더라
 Data:: 7b) 내가/나는 학교에 가더라
-
 ###### 8 a b
 Data:: 8a) 메리가/메리는 예쁘더라
 Data:: 8b) # 내가/나는 예쁘더라
+
+C:: 🤔: Why? because, in [[Anscombe, G. E. M.|anscombe]]'s sense, it is not that we know our actions from our observation. We can make it more precise: in case actions, we cannot use '-te-', because it is, in some sense, unobservable by us. 
 
 #### Contuer example to these constraints
 ##### 1. even with sensory or emotional experience predicates, -te is not allowed with the first person, as shown in (9), thus supporting not the Equi-Subject Constraint, but instead the Non-Equi-Subject Constraint.
@@ -251,6 +256,14 @@ TABLE WITHOUT ID Data
 FROM "ideaBlocks/Semantics Proseminar Term Paper/Spatial deictic tense and evidentials in Korean"
 WHERE Data != null
 FLATTEN Data
+```
+
+### Comments
+```dataview 
+TABLE WITHOUT ID C 
+FROM "ideaBlocks/Semantics Proseminar Term Paper/Spatial deictic tense and evidentials in Korean"
+WHERE C != null
+FLATTEN C
 ```
 ### Response
 ### Meta Informations

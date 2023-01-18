@@ -69,6 +69,7 @@ Table 3. Evidential readings and temporal relations
 | -------------------------------------- | ----------- | --------------------- | -------- | --------- |
 | Direct vs indirect evidence types      | direct      | indirect(inferential) | indirect | indirect  |
 | Temporal relations between DES and EVI | Des*EVI     | EVI<DES               | DES<EVI  | EVI<DES   |
+
 ## 4. Supporting evidence for a modal analysis of the meaning of -te sentences
   
 >[!note] Motivation for a modal analysis of -te
@@ -145,12 +146,14 @@ Data:: 43b) (Context: The speaker was not sure whether it was Chelswu who had st
 #### a modal analysis of _–te_ sentences grounded in Kratzer’s theory
 >[!info]- Kratzer's modal system
 > In Kratzer’s modal system, there are two conversational backgrounds which determine the accessible worlds for a modal sentence, i.e. a modal base and an ordering source (Kratzer 1977, 1981, 1991). 
+> - Modal Base: 실제 상정하는 Actual world에서의 참인 상황들을 모아놓은 집합.
+> - Ordering Source: 어떤 상황들이 어떠한 순서로 더 개연성 있게 일어나는지를 순위 매겨서 나열. 
 
 > [!note] Proposal
 > I propose that the relevant conversational backgrounds for Korean evidential sentences with _–te_ are the modal base $SO_{agent}$(Sensory Observation) and the ordering source $ST/DX_{agent}$ (Stereotypical/Doxastic).
 > >Both $SO_{agent}$ and $ST/DX_{agent}$ are functions from world-time pairs to sets of propositions, and they are relativized to an agent who by default is the speaker and in certain contexts can be the addressee (in interrogatives) or the agent of an attitude (when embedded under verbs of saying). For simplicity, I henceforth eliminate the subscript _agent_ from the two conversational backgrounds $SO_{agent}$ and $ST/DX_{agent}$.
 
-For each world _w_ and time _t_ , SO(_w_, _t_ ) is the set of propositions _p_ such that the agent has sensory evidence for _p_ at _t_ in _w_, e.g. SO(_w_, _t_) = {_p_1, _p_2}. Assuming that a propo- sition is a set of possible worlds, suppose _p_1 = {_w_1, _w_2, _w_3}, _p_2 = {_w_1, _w_2, _w_3, _w_4}. Then SO(_w_, _t_ ), which is the conjunction of all the propositions for which the agent has sensory evidence at _t_ in _w_, is a set of worlds in which all the propositions in $SO(w,t)$are true, e.g.$SO(w,t) = \{ p_1\cap p_2\}$ = {{$w_1,w_2,w_3$}∩{$w_1,w_2,w_3,w_4$}} = {$w_1, w_2, w_3$}.
+For each world _w_ and time _t_ , SO(_w_, _t_ ) is the set of propositions _p_ such that the agent has sensory evidence for _p_ at _t_ in _w_, e.g. SO(_w_, _t_) = {_p_1, _p_2}. Assuming that a propo- sition is a set of possible worlds, suppose p_1 = {w_1, w_2, w_3}, _p_2 = {w_1, w_2, w_3, w_4}. Then SO(w_, _t_ ), which is the conjunction of all the propositions for which the agent has sensory evidence at _t_ in _w_, is a set of worlds in which all the propositions in $SO(w,t)$are true, e.g.$SO(w,t) = \{ p_1\cap p_2\}$ = {{$w_1,w_2,w_3$}∩{$w_1,w_2,w_3,w_4$}} = {$w_1, w_2, w_3$}.
 
 However, the modal base SO by itself does not restrict the accessible worlds sufficiently. For example, suppose the context described in (44), where the agent acquired visual and auditory evidence.
 

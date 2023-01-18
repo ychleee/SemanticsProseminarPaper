@@ -39,6 +39,7 @@ data: 4. # 어제 비가 왔더라.
 
 Data:: 5. 오늘 밖에 비가 오더라.
 - 맥락: (Scenario: Mary was sick, so she stayed in her bed all day long. Her room does not have any window, so she could not see outside at all. Now she saw that her roommate came home with a wet umbrella and a wet raincoat. She says to her friend on the phone...)
+C:: 정에 대한 반박?
 ### 2.3 The prejacent of -te- may denote future eventuality without any overt tense
 
 Data:: 6. 존이 WWCFL에서 논문을 발표하더라.
@@ -64,7 +65,7 @@ Data:: 9. For any utterence context c*, : $[[-te-]]^{c*} =$ $\lambda p_{st}.\lam
 ### 3.1 -te- without any overt tense
 
 Data:: 10. 비가 오더라.
-- when there is no overt tense, a covert anaphoric tense $t_{pro}$ is used (cf. Parte 1984). Given this, the LF of 10 is 11:
+- when there is no overt tense, a covert anaphoric tense $t_{pro}$ is used (cf. Parte 1984). Given this, the LF(Logical Form) of 10 is 11:
 
 Data:: 11.   $[-te-$      $[t_{pro}$       $\lambda w.$ it rains in $w  $]$   $]$
 - $t_{pro}$ is a free variable, and it receives its value from the preceding salient time interval.
@@ -124,7 +125,7 @@ Data:: 18. (Without $-te-$  )   | $-ass-$: perfective(anterior) tense | $-keyss-
 >	- contrary to what we saw in Section 2.2 and 2.3: ==-te- may also introduce the inferential evidential presupposition, even without any tense.==
 
 ### 4.2 -te- as epistemic modal (2010)
-> Lee(2010) shows that the semantic behavior of -te- is similar to that of epistemic moals. 
+>[!note] Lee(2010) shows that the semantic behavior of -te- is similar to that of epistemic moals. 
 
 1. First, the negation of the prejacent in the immediately following sentence is infelicitous (Lee 2010: 296):
 
@@ -136,7 +137,7 @@ Data:: 20. a) Mary/ # I must be going to school   |   b) 메리가 / # 내가  �
 
 3. Finally, both show modal subordination (Robers 1989) as in (21) (Lee 2010:299):
 
-Data: 21. a) A theif might break into the house. He # will/would take the silver. | b) 도둑이 들었더라. 그는 키가 # 작다  ^36e646
+Data: 21. a) A theif might break into the house. He # will/ would take the silver. | b) 도둑이 들었더라. 그는 키가 # 작다  ^36e646
 - A thief broke in (with inferential evidentiality) # He is short / he must be short.
 
 > [!note] Lee(2010): -te- is an epistemic necessity modal (cf. Kratzer 1991)
@@ -144,7 +145,7 @@ Data: 21. a) A theif might break into the house. He # will/would take the silver
 >> - its direct evidentiality and 
 >> - its temporal interpretation (indicating that the speaker acquires direct perceptive evidence before the utterance time). 
 
-Data: 22. $[[-te]] = \lambda P_{<s,<i,t>>}.\lambda w.\lambda t. \exists t''[t''<t \land \forall w'[w' \in BEST(SO,ST/DX, w, t'' \rightarrow P(w')(t'')]]$ (where $BEST$ is the function which maps world-time pairs(w, t) to sets of worlds which are the most highly ranked with respect to the stereotypical/doxastic ordering source $ST/DX(w,t)$ in the sensory observation modal base $SO(w,t)$ )
+Data: 22. $[[-te]] = \lambda P_{<s,<i,t>>}.\lambda w.\lambda t. \exists t''[t''<t \land \forall w'[w' \in BEST(SO,ST/DX, w, t'' \rightarrow P(w')(t''))]]$ (where $BEST$ is the function which maps world-time pairs(w, t) to sets of worlds which are the most highly ranked with respect to the stereotypical/doxastic ordering source $ST/DX(w,t)$ in the sensory observation modal base $SO(w,t)$ )
 
 ##### two different evidential presuppositions introduced by -te- in terms of the interaction between -te- and tense markers. 
 - Direct evidential presupposition: Overlap
@@ -167,17 +168,17 @@ Data: 22. $[[-te]] = \lambda P_{<s,<i,t>>}.\lambda w.\lambda t. \exists t''[t''<
 With this proposal, I explained 
 - the temporal interpretation of the prejacent of -te-, with an additional assumption that when there is no overt tense a covert anaphoric tense is used. 
 
->[!note] 2. I also proposed that the direct perceptive evidential presupposition introduced by -te- is a special case of the inferential evidential presupposition: 
+>[!note] 2. The direct perceptive evidential presupposition introduced by -te- is a special case of the inferential evidential presupposition: 
 > - the speaker makes ==tautological inference== from her direct perceptive evidence. 
 
 ### 5.1 Unexpectedness implication triggered by -te-
 #### Redunduncy of  p→p
 According to my analysis, the direct evidential presupposition of -te- is due to the tautological inference of the form p→p from the direct perception of the eventuality denoted by the prejacent p. 
-However, this inference is obviously redundant. In [[#4.2|Section 4.3]]??[🤔:: There is no 4.3], a sentence without any evidential marker is in general interpreted as based on the best possible evidence, which is direct perceptive evidence. Then there seems no need to use -te- to specify direct perceptive evidence, even with a redundant inference.
-- 🤔:: Best possible evidence account is wrong. [[MVP-Evidentiality as Perspectiveness- Analysis of Korean morpheme '-te'#|See]]
+However, this inference is obviously redundant. In [[#4.2|Section 4.3]]??[C:: There is no 4.3], a sentence without any evidential marker is in general interpreted as based on the best possible evidence, which is direct perceptive evidence. Then there seems no need to use -te- to specify direct perceptive evidence, even with a redundant inference.
+- C:: Best possible evidence account is wrong. [[MVP-Evidentiality as Perspectiveness- Analysis of Korean morpheme '-te'#|See]]
 
-This redundancy leads us to another interesting prediction: if a speaker adopts -te- to indicate that her assertion of the prejacent p is based on direct perception of the eventuality denoted by p, since the speaker asserts p in a more complicated and redundant manner than usual, the sentence with -te- may carry the additional implication (I use this term to remain neutral to the nature of this extra meaning component) that it is unusual, unexpected and/or surprising for the eventuality denoted by p to happen (cf. the conversational maxim of manner in Grice 1975 or the notion of M implicature in Levinson 2000).
-It is hard to test whether a sentence actually carries the unexpectedness/surprise implication (since every assertion is ‘unexpected’, in some sense, as far as it introduces new information which is not shared between conversational participants to the common ground). Nevertheless, at least some Korean speakers have the intuition that -te- without any overt tense marker actually triggers this implication. They also agree that -te- without a tense may carry a specific type of intonation, such as raising tone on -te-, which is commonly adopted in Korean to express the unexpectedness or surprise. This may be tested by some experiment, but I will leave this for the topic of future research.
+This redundancy leads us to another interesting prediction: if a speaker adopts -te- to indicate that her assertion of the prejacent p is based on direct perception of the eventuality denoted by p, since the speaker asserts p in a more complicated and redundant manner than usual, ==the sentence with -te- may carry the additional implication== (I use this term to remain neutral to the nature of this extra meaning component) that it is unusual, ==unexpected and/or surprising for the eventuality denoted by p to happen== (cf. the conversational maxim of manner in Grice 1975 or the notion of M implicature in Levinson 2000).
+It is hard to test whether a sentence ==actually carries the unexpectedness/surprise implication== (since ==every assertion is ‘unexpected’, in some sense,== as far as it introduces new information which is not shared between conversational participants to the common ground). Nevertheless, at least some Korean speakers have the intuition that -te- without any overt tense marker actually triggers this implication. They also agree that -te- without a tense may carry a specific type of ==intonation==, such as raising tone on -te-, which is commonly adopted in Korean to express the unexpectedness or surprise. This may be tested by some experiment, but I will leave this for the topic of future research.
 
 ### 5.2 Exceptional de se reading triggered by -te-
 #### Caki (self)

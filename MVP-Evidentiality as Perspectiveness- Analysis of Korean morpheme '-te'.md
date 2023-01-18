@@ -49,7 +49,7 @@ fontsize: 14pt
 - 뉴스 보고 '오바마 오더라'라고 말하는 경우
 	- Is this the case of sensory perception? 
 	- Surely, it involves senseory perception in the process, because we actually watched 
-## [[Evidentials in interrogatives; A Case study of Korean.|Lim 2010]]'s account
+## [[Korean Evidential -te- Inference from Direct Evidence|Lim 2012]]'s account
 ### account
 
 ### critique
@@ -59,7 +59,7 @@ fontsize: 14pt
 	1. direct evidence
 # Our Account: '더' as marking *observation* : "It was observed by the speaker/hearer"
 > 더 sentences and normal sentences isn't differentiated in terms of requirement of evidences
-## the meaning of '더': "It was observed (by the speaker) that"
+## the meaning of '더': ("It(the event) was observed (by the speaker) )that"
 - the meaning of '네': "It is observed that"
 ### Observation here means direct perception, or something near enough
 #### In paradigm cases, Observation means direct perception(sensory perception is the paradigm case of observation)
@@ -141,11 +141,12 @@ fontsize: 14pt
 - How this proposal meets desiderata for '-te' 
 
 ## Evidentiality of '더'
+> [!note] There is no difference between '더' sentence and plain assertion in terms of requirement for direct evidence.
+> > 'perspective' can. 
 - It is true that 더' sentences require evidence. The strongest evidence available for the speaker. 
 	- However, it is not because '더' marks some special sort of 'evidential meaning' or 'requirement of evidence,' but because assertion itself requires evidence. '더' sentences are also assertions.
 -  Does sentences with '더' requires an additional evidence? Is there an additional requirement for evidence in '더' sentences? In these cases, both sentences require the strongest evidence(in this case, direct evidence). So, requirement of evidence caannot distinguish two sentences. 
 	- But, these sentences differ in their meanings. 
-	- 
 	-   그런데, ‘관점성'으로는 가능함. 
 	-   희중: Chung의 여러 예시들 (5,6,7,8) ‘더'를 쓴 문장들에서 ‘더'를 빼고 말해도 이상하지 않음. 
 	-   두 경우 모두 발화하려면 직접 증거를 요구한다는 점에서는 동일하다. (같은 증거 상황에서 발화 가능) 
@@ -153,11 +154,11 @@ fontsize: 14pt
 	-   선생-제자 대화 예시에서, 선생의 전문분야(권위가 선생한테있는)에 대해서 제자가 ‘A더라구요.’ 라고 하는것은 Acceptable한 여지가 있지만, (자신이 이런저런 관찰을 했다는 뉘앙스가 있음) 하지만 ‘A에요.' 라고 plain assertion을 하는 것은 무리가 있다. 
     
 -   Reverse cases
-    
 
 -   “선생님, 이거 못하겠어요/못하겠네요(자기 일이 아닌 것처럼, active participant가 아닌 것처럼/유체이탈 화법)”
     
 -   “선생님, 이거 어려워요/어렵네요"
+# Cross-linguistic Comparison
 # Conclusion
 
 # References
