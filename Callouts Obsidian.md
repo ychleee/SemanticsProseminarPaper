@@ -48,8 +48,8 @@
 ```
 
 
-Haha
-hoho 
-hihi
-huhu
-hololo
+Lala
+Lolo
+Lili
+Lyulu
+Lyolo
