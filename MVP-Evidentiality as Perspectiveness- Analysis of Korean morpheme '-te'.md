@@ -74,8 +74,8 @@ fontsize: 14pt
 1. 그때는 욕심이 나더라. 
 2. 그때 좋은 생각이 났다. 
 #### Observation Can't be determined by degree of certainty 
-1. 그때 내가 좋은 생각이 났다. (fellicitous)
-2. 그때 내가 계획을 짜고 있더라. (infellicitous)
+1. 그때 내가 좋은 생각이 났다. (felicitous)
+2. # 그때 내가 계획을 짜고 있더라. (infelicitous)
 - 1, 2 has no difference in terms of certainty. They are both certain to the speaker. But 1 is acceptable while 2 is not. We need some other criterion.
 - evidentiality of '더' is not reducible to degree of certainty (contra Lee)
 
