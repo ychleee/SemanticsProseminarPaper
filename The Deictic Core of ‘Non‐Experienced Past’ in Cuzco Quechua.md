@@ -227,7 +227,40 @@ Instead, indirectives state the narrated event ‘indirectly, by reference to it
 >The proposal developed in the following takes the notion of *distance* as central to the meaning of -sqa, but unlike in Johanson’s account, it is not analyzed as a propositional attitude, but as *a specification of the location of the event with respect to the speaker*.
 
 ## 4. *-sqa* AS A SPATIO-TEMPORAL DEICTIC
+The basis of my proposal for -sqa is that it, like other tense/aspect markers, operates *within*, not *on* the proposition, and that the somewhat vague meaning of ‘indirect evidence’ can be made precise by rephrasing it as the absence of perceptual accessibility to the eventuality e described: 
+- -sqa, I claim, encodes that e is not contained within the speaker’s perceptual space at topic time.
+
 ### 4.1 Temporal relations in event semantics
+#### Neo-Reichenbachian temporal semantics
+In standard neo-Reichenbachian approaches tense and aspect markers are analysed as relating three temporal parameters to each other: 
+- the **event time E**, i.e. the time during which an event takes place or a state holds; 
+- the **reference** or **topic time R**, i.e. the time about which the assertion is made (Klein 1994),23 and *which may be overtly specified by temporal frame adverbs such as yesterday, on Sunday*; 
+- the **time of speaking/utterance time S**. 
+
+Tense markers specify the relation between R and S, and aspect markers that between E and R (Kiparsky 2002; Klein 1994).
+- In the absence of overt marking, the following default relations are assumed (cf. Kiparsky 2002).
+- The defaults in (23) can be overridden or made more specific by overt tense and aspect markers.
+
+	(23) 
+		a. Present time reference: S $\subseteq$ R  
+		b. E $\subseteq$ R, if the eventuality is a event ($\subseteq$: Inclusion)
+		c. E $\circ$ R, if the eventuality is a state ($\circ$: Overlap)
+
+#### The framework of event semantics
+The analysis of -sqa developed in the following is based on this analysis of tense and aspect embedded within the framework of event semantics
+- The following ontological entities will be assumed: object individuals, eventualities e (events and states—when specific reference to states is made, the variable s is used), time intervals t, and spatial locations l. 
+	- t<sub>R</sub>, t<sub>S</sub> for R and S; 
+	- For E, $\tau$(e) , which ‘maps an event to its temporal trace, or ‘run time’(Krifka 1989: 97)
+	- Two time intervals t1 and t2 can be related to each other by temporal inclusion, t1 $\subseteq$ t2, temporal overlap t1 $\circ$ t2 and precedence t1 ≺ t2.
+- Verbal predicates have an eventuality argument in addition to their individual arguments, and basic untensed sentences (sentence radicals) denote properties of eventualities.
+- Tense operators take sentence radicals as their argument and specify a particular relation between t<sub>R</sub> and t<sub>S</sub>. For simplicity, I assume that t<sub>S</sub> = now as given by the speech situation throughout this paper, and that t<sub>R</sub> is the first argument of the tense operator; t<sub>R</sub> may either be supplied by temporal frame adverbs such as yesterday or by the context. For a more elaborate compositional analysis of tense and frame adverbs see, for example, Abusch (1998) and Condoravdi (2002).
+- To derive a full proposition from this property of events, I assume, following a suggestion by an anonymous reviewer, that the declarative mood DECL introduces an existential quantifier over the event variable.
+- I furthermore assume that the default aspectual relations are introduced simultaneously with existential closure.
+
+	(24) Marya run: λe.run(Marya)(e)
+	(25) PAST: λtRλPλe (P(e) ∧ tR ≺ now)
+	(27) DECL(PAST(this morning)(Marya run)): $\exists$e(run(Marya)(e) $\wedge$ this morning ≺ now $\wedge$ $\tau$(e) $\subseteq$ this morning)
+
 ### 4.2 The temporal meaning of -sqa
 ### 4.3 The spatial meaning component of -sqa
 

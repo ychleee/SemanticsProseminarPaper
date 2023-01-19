@@ -17,6 +17,8 @@ https://github.com/ychleee/SemanticsProseminarPaper/pulls)
 git pull https://github.com/ychleee/SemanticsProseminarPaper
 ```
 
+> This flow from 1.2. to 2.1. is crucial. The first one imports any updates and the second one ensures that future changes start from this updated version (and not any other older versions).
+
 ### 2. A new branch for a new day (any new version)
 #### 2.1. Set a new branch
 ```
