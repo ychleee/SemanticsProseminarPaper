@@ -2,7 +2,7 @@
 type: 
 tags: ["#reading" ]
 author: 
-aliases: [""]
+aliases: ["Chung (2006)"]
 publish: 
 ---
 > Author: [[Kyung-Sook Chung]]

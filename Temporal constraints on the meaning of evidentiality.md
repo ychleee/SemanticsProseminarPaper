@@ -2,10 +2,10 @@
 type: 
 tags: ["#reading" ]
 author: 
-aliases: ["lee 2013"]
+aliases: ["lee 2013", "Lee (2013)"]
 publish: 
 ---
-> Author: [[Lee Jungmee]]
+> Author: [[Jungmee Lee]]
 ---
 | [[Supplementary material for temporal constraints on korean evidentiality]] | 
 # Content Summary
