@@ -118,10 +118,12 @@ I argue that -sqa is not an evidential proper, because it does not encode a rela
 ### 3.1 Differences between -sqa and the Quechua evidential enclitics
 As I will show in the following, there are some fundamental differences between -sqa and the evidential enclitics which lead to the conclusion that **-sqa is not an evidential proper**.
 
-1. As discussed in [[The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua#1.1 The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua|Section 1.1]], the evidential enclitics are illocutionary modifiers, that is, they are not part of the propositional content. However, -sqa’s function as a tense marker requires it to operate on events, that is, within the proposition. 
+#### 3.1.1. *-sqa* operates on events & within the proposition
+As discussed in [[The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua#1.1 The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua|Section 1.1]], the evidential enclitics are illocutionary modifiers, that is, they are not part of the propositional content. However, -sqa’s function as a tense marker requires it to operate on events, that is, within the proposition. 
 	Under the hypothesis that -sqa as an evidential is of the same type as the enclitics, we would have to assume that -sqa operates simultaneously on the propositional and the illocutionary level. This may be problematic.
 
-2. *A sentence can only have a single evidential value, and no evidential enclitic can co-occur with another in the same sentence.* If -sqa were an indirect evidential, we would expect the following co-occurrence restrictions: the Conjectural -chá and the Reportative -si should be able to co-occur with it, as their evidential values do not clash with that of -sqa, whereas the Direct -mi is not expected to co-occur with it. However, in actual fact we find the situation in (13).
+#### 3.1.2. Analysis as a spatio-temporal deictic does not in and of itself impose any co-occurrence restrictions with the evidential enclitics
+*A sentence can only have a single evidential value, and no evidential enclitic can co-occur with another in the same sentence.* If -sqa were an indirect evidential, we would expect the following co-occurrence restrictions: the Conjectural -chá and the Reportative -si should be able to co-occur with it, as their evidential values do not clash with that of -sqa, whereas the Direct -mi is not expected to co-occur with it. However, in actual fact we find the situation in (13).
 
 		(13) a. Para-sha-sqa-n. 
 		rain-PROG-NX.PST-BPG
@@ -139,7 +141,8 @@ As I will show in the following, there are some fundamental differences between 
 *Contrary to the prediction made by the analysis of -sqa as an indirect evidential, -mi can, but -chá cannot co-occur with -sqa. This strongly suggests that -sqa is not an evidential.*
 	Let me point out, however, that, in contrast to an analysis of -sqa as an indirect evidential, its analysis as a spatio-temporal deictic does not in and of itself impose any co-occurrence restrictions with the evidential enclitics
 
-3. -sqa behaves differently from the two indirect enclitics in questions. Given the pattern below, -sqa differs from both indirect evidential enclitics in questions.
+#### 3.1.3. Different behaviors in questions
+-sqa behaves differently from the two indirect enclitics in questions. Given the pattern below, -sqa differs from both indirect evidential enclitics in questions.
 
 	(14a): p-sqa-si
 		EV: (i) sp assumes that addressee knows the answer from reports  
@@ -149,7 +152,8 @@ As I will show in the following, there are some fundamental differences between 
 	(15): p-sqa
 		EV: sp expects addressee to give an account of addressee's experiences
 
-4. -sqa differs from the Reportative -si in that *it does not give rise to de re/de dicto ambiguities*, while -si does. This contrast is shown in (16).
+#### 3.1.4. *-sqa* only allows *de dicto* reading (no *de re/de dicto* ambiguity)
+-sqa differs from the Reportative -si in that *it does not give rise to de re/de dicto ambiguities*, while -si does. This contrast is shown in (16).
 
 	(16) a. Estados Unidos-pa rey-ni-n-**si** Peru-man hamu-**sqa**.
 		United States-GEN king-EUPH-3-REP Peru-ILL come-NX.PST  
@@ -166,6 +170,7 @@ The speaker of (16a) may believe him- or herself that there is a king of the Uni
 > While none of these taken by itself forces one to conclude that -sqa is not an indirect evidential, each shows that it is at least not an evidential of the same type as the evidential enclitics, and taken together they are strong evidence for the claim that -sqa is not an evidential at all.
 
 ### 3.2 -sqa is not an epistemic modal
+#### Perfect of evidentiality (PE)
 [[Izvorski (1997)]] analyses the so-called **perfect of evidentiality (PE)** in a number of different languages within Kratzer’s (1987) framework of possible world semantics for modality. The following examples illustrate the PE’s of modern Turkish, (17a), and Bulgarian, (17b).
 
 	(17) a. Ahmet gel-mi ̧s.  
@@ -190,6 +195,7 @@ According to Izvorski, declarative sentences containing a PE have the assertive 
 
 According to this analysis, the PE is essentially an epistemic necessity modal, asserting that the embedded proposition p is necessarily true with respect to the speaker’s knowledge state. It differs from regular epistemic modals in presupposing that this claim is based on indirect evidence. This presupposition restricts the kind of conversational background the PE can refer to.
 
+#### Sentences with *-sqa* are unmodified indicative sentences.
 >I argue that -sqa does not carry epistemic modal force and that it therefore cannot be analyzed as a PE in Izvorski’s (1997) sense. *A sentence with -sqa simply states a fact of the actual world, and a speaker is as committed to its truth as with any unmodified indicative sentence.* This is not the case for epistemic modal sentences. 
 
 It is fine to assert must p and at the same time claim ignorance concerning the truth of p, as shown in (20).
@@ -207,6 +213,18 @@ Further support for the claim that -sqa is non-modal is the observation that sen
 > In summary, what is asserted by a sentence with -sqa is not a relation of necessity or possibility between the speaker’s knowledge state and the proposition p, but simply p.
 
 ### 3.3 Indirectivity
+#### Turkish suffix mI ̧s
+The conclusions drawn for Quechua -sqa in the preceding two sections are similar to those drawn by [[Johanson (2000)]] for the Turkish suffix mI ̧s and its corresponding forms in a variety of old and modern Turkic languages. Johanson analyses these suffixes as **indirectives**. 
+- These are not epistemic modals:
+- They are also not evidentials:
+
+#### The notion of distance as central to the meaning of *-sqa* 
+Instead, indirectives state the narrated event ‘indirectly, by reference to its reception by a conscious participant’ and signal ‘the impression or reception of a content introduced from the outside: the very fact that it becomes obvious to P (= the speaker)’ (Johanson 2000: 71).
+- As English translational equivalents of indirectives, Johanson offers *evidently*, *obviously*, *it appears that*.
+- These, however, are not good translational equivalents for Quechua -sqa. Sentences with -sqa are translated as simple indicatives, without reference to how the information conveyed entered the speaker’s consciousness. 
+
+>What -sqa shares with indirectives in Johanson’s sense is the element of distance between the speaker and the narrated event. 
+>The proposal developed in the following takes the notion of *distance* as central to the meaning of -sqa, but unlike in Johanson’s account, it is not analyzed as a propositional attitude, but as *a specification of the location of the event with respect to the speaker*.
 
 ## 4. *-sqa* AS A SPATIO-TEMPORAL DEICTIC
 ### 4.1 Temporal relations in event semantics
