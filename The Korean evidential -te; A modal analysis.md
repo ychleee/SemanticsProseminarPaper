@@ -3,10 +3,10 @@ type:
 tags: ["#reading" ]
 Title: (Reading Note) The Korean evidential -te; A modal analysis
 author: 
-aliases: [""]
+aliases: ["Lee (2010)"]
 publish: 
 ---
-> Author [[Lee Jungmee]]
+> Author [[Jungmee Lee]]
 ---
 # Content Summary
 ## 1. Introduction

@@ -2,7 +2,7 @@
 type: readingNote
 tags: ["#reading" ]
 author: 
-aliases: ["lim (2012)"]
+aliases: ["Lim (2012)"]
 publish: 
 ---
 > Author: [[Dongsik Lim]]
