@@ -3,7 +3,7 @@ tags: ["#" ]
 aliases: []
 ---
 [[Semantics Proseminar 2022Fall]]
-[[MVP-Evidentiality as Perspectiveness- Analysis of Korean morpheme '-te']]
+[[MVP-Evidentiality as Perspectiveness- Analysis of Korean morpheme '-te-']]
 ## Structure
 ### Abstract
 ### Evidentiality as Perspectiveness thesis? (Or, '-te' )

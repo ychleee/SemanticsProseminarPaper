@@ -1,7 +1,7 @@
 ---
 tags: ["#MVP"]
 aliases: ["semantics paper"]
-title: "Evidentiality as Perspectiveness- Analysis of Korean morpheme '-te'"
+title: "Evidentiality as Perspectiveness- Analysis of Korean morpheme '-te-'"
 author: ["Lee, Youngchan", "Choi, Hee Joong"]
 fontfamily: "roboto"
 fontsize: 14pt
