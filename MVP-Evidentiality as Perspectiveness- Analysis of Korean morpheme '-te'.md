@@ -10,6 +10,44 @@ fontsize: 14pt
 [[Semantics Proseminar Term Paper]]
 # Abstract
 
+
+In this paper, we propose a new understanding of the Korean "-te-" marker in assertive sentences. Our perspective differs from previous studies by Lee (2010, 2013) and Lim (2010), who suggest that "-te-" is an evidential marker. Instead, we align with Chung's (2007) argument that "-te-" is a spatio-temporal deictic marker that signifies the perspective on which the assertion is based. However, we diverge from Chung's view by denying that morphemes such as "-ass-," "-kyess-," and "ø" are evidential markers in "-te-" sentences.
+
+We argue that in Korean -te- assertive sentences, there is no evidential morpheme that marks  [[The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua#^71d4a3|propositional-level eventuality]]^[Faller (2004), "The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua"], which is a relation between speaker and the proposition. Instead, we propose that the propositional-level evidentiality of -te- assertions comes from conversational implicature of plain assertion. In our account, -te- assertive sentences are understood as plain assertion whose evidential vintage point is marked. As it is already a version of plain assertion, it already has propositional level evidentiality of assertive sentences. Therefore, -te- sentences do not need an additional marker for propositional-level evidentiality. The role of "-te-" is to specify the vantage point on which the assertion's evidence is based on.
+
+We will demonstrate that our account can comprehensively explain the data presented in Lee, Lim, and Chung's studies and does not encounter the problems their accounts faced.
+
+In this paper, we propose a new understanding of the Korean "-te-" marker in assertive sentences. Our perspective diverges from previous studies by Lee (2010, 2013) and Lim (2010), who suggest that "-te-" is an evidential marker. Instead, we align with Chung's (2007) argument that "-te-" is a spatio-temporal deictic tense that signifies the perspective on which the assertion is based. However, we differentiate from Chung by denying that morphemes such as "-ass-," "-kyess-," and "ø" are evidential markers in "-te-" sentences. We will argue that in Korean -te- assertive sentences, there is no evidential morpheme that marks [[The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua#^71d4a3|propositional level eventuality]]^[Faller (2004), "The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua"], which is a relation between speaker and the proposition. We will argue that this propositional-level evidentiality of -te- assertions comes from [[Supplementary Material for Semantics Term Paper#Plain assertion is the strongest assertion.|conversational implicature ]] of assertive sentences. So, -te- sentences do not need additional marker for propositional-level evidentiality. The role of "-te-" is to specify the vantage point on which the assertion's evidence is based on.
+We will show that our account can comprehensively explain the datas presented in Lee, Lim and Chung and does not meet the problems their accounts faced. 
+
+, and the requirement for evidence in "-te-" sentences is that of the plain assertion made from the specified vantage point. We will argue that our account will comprehensively explain the all the datas that -te-.
+
+###### Ingredients. 
+
+- By Conversational Implicature, Plain assertion without any hedging markers alrady has/exhibits propositional-level evidentiality. It directly asserts the state without any hedging markers. 
+	- The (evidential) relation between speaker and the proposition must be very strong. The speaker must have the strongest type of evidence (direct evidence) in order to say a plain assertion. 
+- What does -te- do? It specifies a perspective/vantage point on which the plain assertion is based on. 
+
+
+C:: The intuitive idea behind it, 
+
+Plain assertion without any additional morphemes(markers/ intuitively, 'hedging' markers) already has the strongest requirement for evidentiaity. In order to say plain assertive sentences, the speaker ias required to have the strongest type of evidences. In this sense, propositional level eventuality is already inherent in plain assertion. 
+
+In asserting -te- assertions, we assert that an event obains (is true), and we are basing our that assertion on 'observation' we made at the vantage point 
+
+> We propose to understand -te- assertive sentences as assertive sentences whose 
+
+The assertion with "-te-" is simply a plain assertion based on a specific vantage point made salient by the "-te-" marker. Therefore, it already possesses the requirement for evidentiality inherent in plain assertions, and does not require any additional marker for evidentiality. 
+
+"비가 왔다."  /"비가 오더라." => 
+"비가 온다." /"비가 오네" => 
+
+내가 보기엔 비가 오겠다.  (X)
+내가 보기엔 비가 올 것 같다. (O)
+비가 오겠더라. 
+
+비가 오겠더라 / 비가 올것 같더라 차이 => 
+###### Draft(0119)
 In this paper, we propose a new understanding of the Korean "-te-" marker in assertive sentences. Our perspective diverges from previous studies by Lee (2010, 2013) and Lim (2010), who suggest that "-te-" is an evidential marker. Instead, we align with Chung's (2007) argument that "-te-" is a spatio-temporal deictic tense that signifies the perspective on which the assertion is based. However, we differentiate from Chung by denying that morphemes such as "-ass-," "-kyess-," and "ø" are evidential markers in "-te-" sentences. We argue that a "-te-" sentence is a variation of a plain assertion. The assertion with "-te-" is simply a plain assertion based on a specific vantage point made salient by the "-te-" marker. Therefore, it already possesses the requirement for evidentiality inherent in plain assertions, and does not require any additional marker for evidentiality. The role of "-te-" is to specify the vantage point on which the assertion is based, and the requirement for evidence in "-te-" sentences is that of the plain assertion made from the specified vantage point. ==We will argue that our account will comprehensively explain the all the datas that -te- ==
 
 C:: Hee: Positive account (Perspective 관련)이 어떻게 전개될 것이며, 이게 Chung, Lee, Lim 등의 설명과는 어떤점이 같고 다르고, 결국 데이터 설명, 이 논의에 어떤 기여를 할 수 있는지가 더 드러나야함. 
@@ -19,7 +57,6 @@ C:: Hee: Positive account (Perspective 관련)이 어떻게 전개될 것이며,
 ###### Draft
 In this paper, we present a novel account of the function of the Korean morpheme "-te-"  in assertive sentences. Our approach diverges from previous studies Lee (2010, 2013), and Lim (2010), who argue that there are ""-te-evidential marker in korean "-te-" sentences. Instead, we propose that 
 "-te-" is a spatio-temporal deictic tense that signifies the perspective from which the assertion is based. We argue that the requirement for evidentiality is already inherent in the plain assertion, and that the addition of "-te-" does not add any additional evidential requirement. Our positive account is that "-te-" serves to specify the vantage point on which the assertion is based, rather than adding any evidential requirement. We also reject the idea that morphemes such as "ass," "kyess," and "ø" are evidential markers in "-te-" sentences.
-
 
 In this paper, we present a novel account of the function of the Korean "-te-" marker in assertive sentences. Our approach diverges from previous studies by Lee (2010, 2013), and Lim (2010), who argue that "-te-" functions as an evidential marker. Instead, we follow Chung who argues that "-te-" is a spatio-temporal deictic tense that signifies the perspective from which the assertion is based. However, our approach differs from Chung in that we reject the idea that morphemes such as "ass," "kyess," and "ø" are evidential markers in "-te-" sentences.
 We argue that -te- sentence is a version of the plain assertion. Assertion with '-te-' is just the plain assertion whose evidence is based on specific vantage point that is made salient by '-te-.' So, it has the requirement for evidentiality that is already inherent in the plain assertion. Thus it does not need any additional marker for the requirement of evidence.   "-te-"'s role is to specify the vantage point on which the assertion is based, and the requirement for the evidence for the '-te-' sentence is that of the plain assertion made on the vantage point. 
@@ -34,12 +71,11 @@ Our positive account is that -te- sentences do not need evidential marker that s
 - In this sense, (when we add -te- to plain assertive sentences) -te- does not add any evidential requirement. The evidential requirement is already in the plain assertion. It specifies the vantage point on which the assertion is based on. 
 
 
-
 on which the assertion's evidence is based on. 
 So, sentences with -te- has evidential requirements (the speaker of the sentence must have an appropriate evidence in order to felicitously speak that sentence), but this requirement does not come from any morphemes or evidential markers. Instead we will argue that it comes from the assertion itself. To make aplain assertion without any morphemes, we already must have a very good evidence. 
 
 ##### Plain assertion is the strongest assertion. 
-	-Kartonnen's puzzle shows that it is at least more stronger than necessity epistemic modal.
+- Kartoonnen's puzzle shows that it is at least more stronger than necessity epistemic modal.
 
 ### Griciean Maxim of Quality
 One should assert things only when one has appropriate evidence.
@@ -55,6 +91,8 @@ By Gricean Maxim of quality, and the fact that plain assetion is the strongest, 
 - In this sense, (when we add -te- to plain assertive sentences) -te- does not add any evidential requirement. The evidential requirement is already in the plain assertion. It specifies the vantage point on which the assertion is based on. 
 
 [[Supplementary Material for Semantics Term Paper]]
+
+- Our account of '-te-': It is not itself an evidential. 
 # Introduction: Evidential and Korean Morpheme '-te'
 # Overview of previous accounts
 ## [[Spatial deictic tense and evidentials in Korean|Chung]]'s account

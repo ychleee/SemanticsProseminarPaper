@@ -8,6 +8,13 @@ publish:
 ---
 > Author [[Martina Faller]]
 ---
+#### Comments
+```dataview 
+TABLE WITHOUT ID C
+FROM "ideaBlocks/Semantics Proseminar Term Paper/The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua"
+FLATTEN C
+```
+
 # Content Summary
 
 >[!Abstract]
@@ -38,11 +45,15 @@ Many typologically distinct languages express indirect evidentiality in their te
 > One of the main claims of the paper is that two types of evidentiality have to be distinguished: ==**propositional-** and **event-level evidentiality**==.
 > > -*sqa*: a spatio-temporal deictic which specifies that the described eventuality e is not located within the speaker’s perceptual field at topic time. From this it follows that the speaker cannot have had direct evidence for e.
 
+^71d4a3
+
 - That there is an intimate connection between deixis and evidentiality has also been observed by [[Hanks (1984)]] (Yucatec Maya), [[Garrett (2000)]] (Tibetan), [[Schlichter (1986)]] (Wintu), [[Levinson (to appear)]]. The ==evidentiality–deixis connection== is therefore of cross-linguistic relevance.
 
 >[!notes] Hypotheses
 > (i) the distinction between evidentiality proper and event-level evidentiality is of cross-linguistic relevance,
 > (ii) that spatial deixis might be the key to understanding event-level evidentiality across languages.
+
+C:: 🤔: What is this event-level evidentiality?? I did not get the intuitive idea yet...  (0120)
 
 - Quechua is particularly well-suited for showing that not all elements that give rise to evidential readings are necessarily genuine evidentials, since it possesses a system of proper evidentials, which consists of three enclitics for best possible, reportative and conjectural evidence (described in detail and analysed in [[Faller (2002)]])
 - Through a comparison with the two indirect evidentials it will be shown that -sqa is of a different type. 
@@ -283,7 +294,7 @@ FLATTEN DEF
 #### Cs
 ```dataview 
 TABLE WITHOUT ID C
-FROM "ideaBlocks/The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua"
+FROM "ideaBlocks/Semantics Proseminar Term Paper/The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua"
 FLATTEN C
 ```
 ### Response 
