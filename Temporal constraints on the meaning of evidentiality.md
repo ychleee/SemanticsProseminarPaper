@@ -7,7 +7,6 @@ publish:
 ---
 > Author: [[Jungmee Lee]]
 ---
-| [[Supplementary material for temporal constraints on korean evidentiality]] | 
 # Content Summary
 
 ## Abstract
@@ -184,7 +183,7 @@ Chung argues that -te is not an evidential, but rather a 'spatial deictic past t
 
 ##### Lee's assessment of Chung's ambiguity analysis:
 1. This ambiguity analysis is neither independently motivated nor empirically correct.
-2. The analysis proposed Lee's paper does not assume ambiguous meanings of the expressions −∅, _–ess_, and _–kyess_. Lee analyze them as encoding a temporal meaning (as tense), whether they occur with _–te_ or not; see their lexical entries in (38).
+2. The analysis proposed in Lee's paper does not assume ambiguous meanings of the expressions −∅, _–ess_, and _–kyess_. Lee analyzes them as encoding a temporal meaning (as tense), whether they occur with _–te_ or not; see their lexical entries in (38).
 > Chung’s ambiguity analysis is motivated by her typological assumption (repeated here from (2)) that one evidential marker gives rise to one evidential reading about (in)directness:
 > >But this assumption is not supported by crosslinguistic studies. According to Aikhenvald (2004), one of the widespread evidential systems is the A3-system, which involves two evidentials: (i) a reportative evidential, and (ii) an evidential that covers every other evidence type.
 > > - Tibeto-Burman languages, languages of South America, South Arawak languages (Ignaciano, Waurá, Pareci, Piro), and North Arawak languages (Resígaro). In such a two-fold evidential system, the distinction between direct evidence vs. inferential evidence is not marked by separate morphemes.

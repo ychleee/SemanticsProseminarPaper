@@ -16,6 +16,7 @@ We argue that in Korean -te- assertive sentences, there is no evidential morphem
 
 We will demonstrate that our account can comprehensively explain the data presented in Lee, Lim, and Chung's studies and does not encounter the problems each of their accounts faced.
 
+###### Draft
 In this paper, we propose a new understanding of the Korean "-te-" marker in assertive sentences. Our perspective diverges from previous studies by Lee (2010, 2013) and Lim (2010), who suggest that "-te-" is an evidential marker. Instead, we align with Chung's (2007) argument that "-te-" is a spatio-temporal deictic tense that signifies the perspective on which the assertion is based. However, we differentiate from Chung by denying that morphemes such as "-ass-," "-kyess-," and "ø" are evidential markers in "-te-" sentences. We will argue that in Korean -te- assertive sentences, there is no evidential morpheme that marks [[The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua#^71d4a3|propositional level eventuality]]^[Faller (2004), "The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua"], which is a relation between speaker and the proposition. We will argue that this propositional-level evidentiality of -te- assertions comes from [[Supplementary Material for Semantics Term Paper#Plain assertion is the strongest assertion.|conversational implicature ]] of assertive sentences. So, -te- sentences do not need additional marker for propositional-level evidentiality. The role of "-te-" is to specify the vantage point on which the assertion's evidence is based on.
 We will show that our account can comprehensively explain the datas presented in Lee, Lim and Chung and does not meet the problems their accounts faced. 
 
@@ -73,13 +74,13 @@ Our positive account is that -te- sentences do not need evidential marker that s
 on which the assertion's evidence is based on. 
 So, sentences with -te- has evidential requirements (the speaker of the sentence must have an appropriate evidence in order to felicitously speak that sentence), but this requirement does not come from any morphemes or evidential markers. Instead we will argue that it comes from the assertion itself. To make aplain assertion without any morphemes, we already must have a very good evidence. 
 
-##### Plain assertion is the strongest assertion. 
+Plain assertion is the strongest assertion. 
 - Kartoonnen's puzzle shows that it is at least more stronger than necessity epistemic modal.
 
-### Griciean Maxim of Quality
+Griciean Maxim of Quality
 One should assert things only when one has appropriate evidence.
 
-###### GMQ'(Gricean Maxim of Quality'): An assertion's strength should match the evidence's strength. (The assertion's strength must be proportional to one's evidence's strength. )
+GMQ'(Gricean Maxim of Quality'): An assertion's strength should match the evidence's strength. (The assertion's strength must be proportional to one's evidence's strength. )
 - In order to assert more strongly, one needs stronger evidence.
 
 By Gricean Maxim of quality, and the fact that plain assetion is the strongest, plain assertion requires the strongest evidence.
@@ -93,6 +94,46 @@ By Gricean Maxim of quality, and the fact that plain assetion is the strongest, 
 
 - Our account of '-te-': It is not itself an evidential. 
 # Introduction: Evidential and Korean Morpheme '-te'
+## Desiderata for -te-
+### 1. Speaker's personal observation Constraint [[Spatial deictic tense and evidentials in Korean#Speaker's Personal Obeservation Constraint|Chung (2007)]]
+In paradigm cases, a sentence with -te- must describe a situation that the speaker witnessed.
+### 2. Equi-subject constraint [[Spatial deictic tense and evidentials in Korean#Equi-Subject Constraint|Chung (2007)]]
+In case of sensory or psych predicates such as '외롭,' '좋,' the ubject of a sentence -te- must be the speaker.
+- Why? because, in [[Anscombe, G. E. M.|anscombe]]'s sense, it is not that we know our actions from our observation. We can make it more precise: in case actions, we cannot use '-te-', because it is, in some sense, unobservable by us. 
+
+### 3. Non-equi subject constraint [[Spatial deictic tense and evidentials in Korean#Non-Equi-Subject Constraint|Chung (2007)]]
+In case of predicates except for sensory and psych predicates, the subject of sentence cannot be the speaker. 
+### 4. More data(Lim) -te- always requires direct perceptual evidence.  [[Korean Evidential -te- Inference from Direct Evidence#2.1 -te- always requires direct perceptive evidence|Lim (2012)]]
+- 어제 비가 왔더라. #
+	-  (Scenario: John is sick, so he has stayed in his bed since yesterday and has not been outside at all. John’s room does not have any window, so he could not see outside, either. Today he heard from his roommate that the it rained yesterday. John says to his friend on the phone...)
+		- 어제 비가 왔더라. 
+	- This data shows that -te- with an overt tense is allowed only when speaker's direct perceptive evidence.
+###### More Thinking
+- 이게 정확히 무슨 Constraint? Evidence에 대한 Herasay같은것을 제외하려고 하는 것인가? 
+=> Here, 'direct perception of evidence' can be misleading. In some sense, we can say that John had directly perceived his evidence, say, his roomates saying that the ground is wet. Why John's case is infellicitous? Because 'hearsay' is not counted as direct perceptive evidence. What if someone says, it involves direct perception of the evidence because it involves direct perception of John's friends' saying? It is a bit wrong because here, 'direct '
+ > [!warning] This is misleading
+> > Acquiring evidence almost always requires direct perception of some sort. Hearsay requires direct perception of sounds. Listening to news requires direct perception of sounds. 
+> > So, this says almost nothing. No substantial constraint at all. 
+> > What this case shows is 
+- But is it? 
+	- 어제 오바마가 왔더라. 
+	- "Listening to the news in the morning, "
+- 그러면 뉴스 들은거는? 뉴스 들은거는 direct perception of evidnence 인가? 그것과 Hearsay의 차이는? 
+- 
+### 5. More data(Lim )-te- may introduce inferential evidential presupposition without any overt tense.  [[Korean Evidential -te- Inference from Direct Evidence#2.2 -te- may introduce inferential evidential presupposition without any overt tense.|Lim (2012)]]
+- 오늘 밖에 비가 오더라. 
+	- 맥락: (Scenario: Mary was sick, so she stayed in her bed all day long. Her room does not have any window, so she could not see outside at all. Now she saw that her roommate came home with a wet umbrella and a wet raincoat. She says to her friend on the phone...)  
+C:: 정에 대한 반박?
+
+### 6. More data(Lim)The prejacent of -te- may denote future eventuality without any overt tense.[[Korean Evidential -te- Inference from Direct Evidence#2.3 The prejacent of -te- may denote future eventuality without any overt tense|Lim (2012)]]
+
+## Our account
+>[!note] Our account of -te-
+>1. -te- is not an evidential morpheme that marks propositional-level evidentiality
+>2. -te- assertive sentence is an assertive sentence that asserts an event P is the case. 
+>3. '-te-' is a deictic tense that marks the vintage point the event is  asserted 
+
+We argue that in Korean -te- assertive sentences, there is no evidential morpheme that marks  [[The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua#^71d4a3|propositional-level evidentiality]]^[Faller (2004), "The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua"], which is a relation between speaker and the proposition. Instead, we propose that the propositional-level evidentiality of -te- assertions comes from conversational implicature of plain assertions. In our account, -te- assertions are understood as plain assertions whose evidential vantage point is marked. As it is already a version of plain assertion, it already has propositional-level evidentiality of assertive sentences. Therefore, -te- sentences do not need an additional marker for propositional-level evidentiality. The role of "-te-" is to specify the vantage point on which the assertion's evidence is based on.
 # Overview of previous accounts
 ## [[Spatial deictic tense and evidentials in Korean|Chung]]'s account
 ### account
@@ -110,7 +151,6 @@ By Gricean Maxim of quality, and the fact that plain assetion is the strongest, 
 	1. there are lingering problems: 
 2. '더' expresses necessary modal
 ### critique
-
 #### 1. '더' expressing necessary epistemic modal?  
  1) 비가 오고 있었다.
  2) 비가 오더라.
@@ -249,3 +289,10 @@ By Gricean Maxim of quality, and the fact that plain assetion is the strongest, 
 ###### Ingredients
 - 
 
+
+```dataview 
+TABLE Data 
+FROM "ideaBlocks/Semantics Proseminar Term Paper"
+WHERE Data != null
+FLATTEN Data
+```

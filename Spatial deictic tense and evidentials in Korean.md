@@ -171,7 +171,7 @@ Data:: 19) The speaker of a -te sentence cannot be an active participant but ==s
 		- 'intentionally + '
 		- 'passivization'?
 		- 
-### 3.3-Te is a spatial deictic tense[go](x-devonthink-item://7E3E81AF-FFB4-4244-8BE9-58F2E8165C42?page=14)
+### 3.3-Te is a spatial deictic tense [go](x-devonthink-item://7E3E81AF-FFB4-4244-8BE9-58F2E8165C42?page=14)
 ###### 20
 Data:: 20) 지금 밖에는 비가 오고 있었었다.
 ###### 21
