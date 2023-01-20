@@ -4,7 +4,8 @@ tags: ["#reading" ]
 Title: (Reading Note) The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua
 author: 
 aliases: ["Faller (2004)"]
-publish: 
+publish:
+summary: ["Choi, Hee Joong"]
 ---
 > Author [[Martina Faller]]
 ---
@@ -230,7 +231,9 @@ The conclusions drawn for Quechua -sqa in the preceding two sections are similar
 - They are also not evidentials:
 
 #### The notion of distance as central to the meaning of *-sqa* 
-Instead, indirectives state the narrated event ‘indirectly, by reference to its reception by a conscious participant’ and signal ‘the impression or reception of a content introduced from the outside: the very fact that it becomes obvious to P (= the speaker)’ (Johanson 2000: 71).
+Instead,
+>[!quote] indirectives state the narrated event ‘indirectly, by reference to its reception by a conscious participant’ and signal ‘the impression or reception of a content introduced from the outside: the very fact that it becomes obvious to P (= the speaker)’ (Johanson 2000: 71).
+
 - As English translational equivalents of indirectives, Johanson offers *evidently*, *obviously*, *it appears that*.
 - These, however, are not good translational equivalents for Quechua -sqa. Sentences with -sqa are translated as simple indicatives, without reference to how the information conveyed entered the speaker’s consciousness. 
 
@@ -273,6 +276,49 @@ The analysis of -sqa developed in the following is based on this analysis of ten
 	(27) DECL(PAST(this morning)(Marya run)): $\exists$e(run(Marya)(e) $\wedge$ this morning ≺ now $\wedge$ $\tau$(e) $\subseteq$ this morning)
 
 ### 4.2 The temporal meaning of -sqa
+Up to now, I have assumed that -sqa is a marker for *past tense* based on the observation—which is sufficiently illustrated by the examples presented in the preceding sections—that it is used to describe events that took place in the past, except when used miratively. If this assumption is correct, then the temporal meaning of -sqa is captured by (25). 
+
+#### *-sqa* as a perfect tense
+In this section, I consider and reject a potential alternative analysis of -sqa as a perfect marker, adopted—without much argument—by Lefebvre & Muysken (1988: 235). [[Lefebvre & Muysken (1988)]] analyse -sqa as a ‘*perfect tense*’ which locates E before R, and does not fix the relation of S with respect to either E or S. As a result, -sqa is ‘in some sense [ ... ] ambiguous between the three perfect tenses in English’ (Lefebvre & Muysken 1988: 235), which they take to encode the following relations between S, E and R:
+
+	(28) Three perfect tenses in English
+	future perfect: S—E—R (or S, E—R or E—S—R)
+	present perfect: E—S, R  
+	pluperfect: E—R—S (Lefebvre & Muysken 1988: 235)
+
+In my own work, I could not confirm the use of -sqa as a marker of pluperfect or future perfect, and will therefore only discuss the possibility that -sqa may be a present perfect marker.
+
+>[!quote] It is widely accepted in the literature that there is a universal diachronic path of change from perfects to inferentials. This change is motivated by the observation that the perfect and inferential are semantically similar in that ‘both categories present an event not in itself, but via its results’ (Comrie 1985: 110). 
+
+#### Resultative use of *-sqa* and its participial use
+For Quechua, this connection holds synchronically and is most apparent when comparing the resultative use of -sqa with its nonfinite function to form participles as in (29).
+
+	(29) Pi-taq chahay macha-sqa runa-ri?  
+		quien-CONTR that drink-PP man-TOP  
+		‘And who is that drunk man?’ (Cusihuaman 1976: 225)
+
+While participles formed with -sqa focus on the result state of an event and presuppose the event leading up to it, the finite resultative uses of -sqa focus on the event itself. Thus, (30) asserts that Marya left, and presupposes the result state of her being gone.^[Given that third person is not marked with the finite use of -sqa (see footnote 9), and that the copula can be left out when participles are used predicatively, some examples with -sqa are ambiguous between asserting the event and asserting its result.
+	(i) Q’iru p’aki-ku-sqa-n.  
+		cup break-REFL-NX.PST/PP-BPG 
+		(a) ‘The cup broke.’  
+		(b) ‘The cup is broken.’]
+
+	(30) Marya-qa lluqsi-sqa-n. 
+		Marya-TOP leave-NX.PST-BPG 
+		‘Marya left.’
+
+Sentences like (30) are reminiscent of English result-state perfects such as Marya has left, which may also be taken to support the hypothesis that -sqa is a perfect marker. Markers in other languages with the range of interpretations of -sqa are also often used for participle formation:
+
+	(31) Turkish mI ̧s (Aksu-Koc & Slobin 1986: 165)
+		a. Çiçek kuru-mus ̧  
+		flower dry-mIs ̧  
+		‘The flower dried (apparently, reportedly)’ 
+		b. kuru-mus ̧ çiçek  
+		dry–mIs ̧ flower  
+		‘dried flower’/‘flower which has become dry’
+
+> There is then an undeniably close link between the finite resultative use of Quechua -sqa (and similar markers in other languages) and its participial use. A perfect analysis of -sqa is therefore not implausible.
+
 ### 4.3 The spatial meaning component of -sqa
 
 ## 5. THE EVIDENTIAL INTERPRETATIONS OF *-sqa*
