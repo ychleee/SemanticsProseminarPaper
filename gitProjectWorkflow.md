@@ -17,22 +17,27 @@ https://github.com/ychleee/SemanticsProseminarPaper/pulls)
 git pull https://github.com/ychleee/SemanticsProseminarPaper
 ```
 
-> This flow from 1.2. to 2.1. is crucial. The first one imports any updates and the second one ensures that future changes start from this updated version (and not any other older versions).
+> This flow from 1.2. to 2.1. is crucial. 
+> - The first one imports any updates;
+> - The second one ensures that future changes start from this updated version (and not any other older versions).
 
 ### 2. A new branch for a new day (any new version)
 #### 2.1. Set a new branch
 ```
 git branch <name>
 ```
-Naming convention: "h0119", "y0120", etc.
-(First letter of the given name + MMDD)
+Naming convention: "h0119a", "y0120a", etc.
+(First letter of the given name + MMDD + ordered alphabet)
 
 #### 2.2. Checkout to the new one
 ```
 git checkout <name>
 ```
 
-### 3. Ready for share?
+### 3. You do your job at this stage
+Make sure the .md (or any) documents you work in the local folder are worked upon a new branch (set at [[gitProjectWorkflow#2.1. Set a new branch|Section 2.1.]]).
+
+### 4. Ready for share?
 #### 3.1. "Save"
 ```
 git add -A
@@ -50,4 +55,4 @@ git push --set-upstream origin <branch name>
 https://github.com/ychleee/SemanticsProseminarPaper/pulls)
 - Wait for review from other authors
 
-### 4. Back to [[gitProjectWorkflow#1.1. Check for any pull requests|Section 1.1.]]
+### 5. Back to [[gitProjectWorkflow#1.1. Check for any pull requests|Section 1.1.]]
