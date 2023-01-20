@@ -51,6 +51,8 @@ By [[#GMQ|GMQ']], plain assertion requires the strongest evidence.
 - It inherits(has) the requirement of the evidence of plain assertion. Only the vantage point that the assertion is based on is specified by -te- in -te- sentences.
 - In this sense, (when we add -te- to plain assertive sentences []) -te- does not add any evidential requirement. The evidential requirement is already in the plain assertion. It specifies the vantage point on which the assertion is based on. 
 
+Plain assertion without any additional morphemes(markers/ intuitively, 'hedging' markers) already has the strongest requirement for evidentiaity. In order to say plain assertive sentences, the speaker ias required to have the strongest type of evidences. In this sense, propositional level eventuality is already inherent in plain assertion. 
+
 ## Is Perception agential?
 #### Intentionality test
 - I intentionally saw that.
