@@ -1,7 +1,7 @@
 ---
 tags: ["#MVP"]
 aliases: ["semantics paper"]
-title: "Evidentiality as Perspectiveness- Analysis of Korean morpheme '-te'"
+title: "Evidentiality as Perspectiveness- Analysis of Korean morpheme '-te-'"
 author: ["Lee, Youngchan", "Choi, Hee Joong"]
 fontfamily: "roboto"
 fontsize: 14pt
@@ -10,7 +10,7 @@ fontsize: 14pt
 [[Semantics Proseminar Term Paper]]
 # Abstract
 
-In this paper, we propose a new account of the Korean "-te-" marker in assertive sentences. Our perspective differs from previous studies by Lee (2010, 2013) and Lim (2010), who suggest that "-te-" is an evidential marker. Instead, we align with Chung's (2007) argument that "-te-" is a spatio-temporal deictic marker that signifies the perspective on which the assertion is based. However, we diverge from Chung's view by denying that morphemes such as "-ass-," "-kyess-," and "ø" are evidential markers in "-te-" sentences.
+In this paper, we propose a new account of the so-called *-te-* marker in Korean assertions. Our perspective differs from previous studies by Lee (2010, 2013) and Lim (2010), who suggest that *-te-* is an evidential marker. Instead, we align with Chung's (2007) argument that *-te-* is a (spatio-)temporal deictic marker that signifies the perspective on which the assertion is based. However, we diverge from Chung's view by denying that morphemes such as "-ass-," "-kyess-," and "ø" are evidential markers in "-te-" sentences.
 
 We argue that in Korean -te- assertive sentences, there is no evidential morpheme that marks  [[The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua#^71d4a3|propositional-level evidentiality]]^[Faller (2004), "The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua"], which is a relation between speaker and the proposition. Instead, we propose that the propositional-level evidentiality of -te- assertions comes from conversational implicature of plain assertions. In our account, -te- assertions are understood as plain assertions whose evidential vantage point is marked. As it is already a version of plain assertion, it already has propositional-level evidentiality of assertive sentences. Therefore, -te- sentences do not need an additional marker for propositional-level evidentiality. The role of "-te-" is to specify the vantage point on which the assertion's evidence is based on.
 

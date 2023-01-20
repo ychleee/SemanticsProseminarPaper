@@ -278,7 +278,7 @@ The analysis of -sqa developed in the following is based on this analysis of ten
 ### 4.2 The temporal meaning of -sqa
 Up to now, I have assumed that -sqa is a marker for *past tense* based on the observation—which is sufficiently illustrated by the examples presented in the preceding sections—that it is used to describe events that took place in the past, except when used miratively. If this assumption is correct, then the temporal meaning of -sqa is captured by (25). 
 
-#### *-sqa* as a perfect tense
+#### *-sqa* as a perfect tense (aspect)
 In this section, I consider and reject a potential alternative analysis of -sqa as a perfect marker, adopted—without much argument—by Lefebvre & Muysken (1988: 235). [[Lefebvre & Muysken (1988)]] analyse -sqa as a ‘*perfect tense*’ which locates E before R, and does not fix the relation of S with respect to either E or S. As a result, -sqa is ‘in some sense [ ... ] ambiguous between the three perfect tenses in English’ (Lefebvre & Muysken 1988: 235), which they take to encode the following relations between S, E and R:
 
 	(28) Three perfect tenses in English
@@ -297,7 +297,7 @@ For Quechua, this connection holds synchronically and is most apparent when comp
 		quien-CONTR that drink-PP man-TOP  
 		‘And who is that drunk man?’ (Cusihuaman 1976: 225)
 
-While participles formed with -sqa focus on the result state of an event and presuppose the event leading up to it, the finite resultative uses of -sqa focus on the event itself. Thus, (30) asserts that Marya left, and presupposes the result state of her being gone.^[Given that third person is not marked with the finite use of -sqa (see footnote 9), and that the copula can be left out when participles are used predicatively, some examples with -sqa are ambiguous between asserting the event and asserting its result.
+*While participles formed with -sqa focus on the result state of an event and presuppose the event leading up to it, the finite resultative uses of -sqa focus on the event itself. Thus, (30) asserts that Marya left, and presupposes the result state of her being gone*.^[Given that third person is not marked with the finite use of -sqa (see footnote 9), and that the copula can be left out when participles are used predicatively, some examples with -sqa are ambiguous between asserting the event and asserting its result.
 	(i) Q’iru p’aki-ku-sqa-n.  
 		cup break-REFL-NX.PST/PP-BPG 
 		(a) ‘The cup broke.’  
@@ -319,7 +319,40 @@ Sentences like (30) are reminiscent of English result-state perfects such as Mar
 
 > There is then an undeniably close link between the finite resultative use of Quechua -sqa (and similar markers in other languages) and its participial use. A perfect analysis of -sqa is therefore not implausible.
 
+#### *-sqa* as a past tense
+However, there is one major problem with analyzing -sqa as a perfect, which is that *perfects by definition place the topic time R after E*, or in Klein’s (1994) terminology into *the posttime of the time of the situation*.
+- It could not be used if Marya had left and returned, and would still be present at the time of utterance. In contrast, (30) could be used in such a situation.
+
+	(32) (Even when Marya is in the room at S)
+		Marya-s lluqi-sqa Pilar-wan rima-na-n-paq. 
+		Marya-REP leave-NX.PST Pilar-COM talk-NMLZ-3-DAT 
+		‘Marya left to talk with Pilar.’
+
+- Moreover, (32) would also be a good answer to the question *What happened at that meeting* asked weeks after the meeting. **The posttime of the described eventuality is thus irrelevant for the use of -sqa, in contrast to the use of genuine perfects**.
+
+> I take the evidence in support of the past tense analysis to outweigh the evidence in support of the perfect analysis of -sqa, and will therefore assume in the following that **-sqa, like -rqa, is a past tense marker and has the temporal meaning in (25)**.
+> 
+> (25) PAST: λtRλPλe (P(e) ∧ tR ≺ now)
+> 
+>> One consequence of this assumption is that some uses of -sqa that would be straightforwardly accounted for by a perfect analysis requires a more involved analysis. This concerns in particular the use of -sqa in the context of direct evidence as in (11). (a positive feature of the past tense analysis, since such uses are not very common and are not even discussed in Quechua reference grammars)
+
 ### 4.3 The spatial meaning component of -sqa
+The evidential interpretations of -sqa can be accounted for by augmenting its temporal meaning PAST with *a spatial component*. 
+
+> I analyse -sqa as specifying that the eventuality took place (at least partially) outside the speaker’s perceptual field during topic time. The **perceptual field** of a person at time t is defined as the set of locations l that (s)he has perceptual access to at t, where perception may involve any of the senses, not just sight. *The intuition behind this analysis is that the speaker can only have indirect evidence for an eventuality that unfolds outside his or her perceptual field.* 
+
+To illustrate how this accounts for simple cases, consider example (35).
+
+	(35) Marya-qa urma-sqa-(s). 
+		Marya-TOP fall-NX.PST-REP 
+		‘Marya fell.’
+
+-sqa specifies that the event of Marya’s falling happened outside the speaker’s perceptual field at t<sub>R</sub>. It immediately follows that the speaker does not have direct evidence for the proposition p = ‘Marya fell’ and *must have learned p in some other, indirect, way*. In (35), the manner in which p was acquired is overtly specified by the Reportative enclitic -si, though this is not obligatory.
+
+> I propose analysing this spatial meaning aspect of -sqa in terms of two spatio-temporal trace functions (cf. the path function of [[Verkuyl & Zwarts 1992]]), called e-trace and P-trace. **E-trace**, defined in (36), maps an eventuality e onto its time-space coordinates. Each temporal interval t that is included in the temporal trace τ(e) is paired up with the location l of the eventuality at time t. The output of e-trace is a set of time-location pairs ⟨t,l⟩, the ‘run-time-space’ of the eventuality.
+
+	(36) e-trace(e) = {⟨t,l⟩ | t ⊆ τ(e) ∧ AT(e,t,l)}
+
 
 ## 5. THE EVIDENTIAL INTERPRETATIONS OF *-sqa*
 

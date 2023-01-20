@@ -1,5 +1,5 @@
 ---
-type: 
+type: readingNote
 tags: ["#reading" ]
 Title: (Reading Note) Spatial deictic tense and evidentials in Korean
 author: 
