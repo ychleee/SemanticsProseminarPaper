@@ -145,7 +145,7 @@ Data: 21. a) A theif might break into the house. He # will/ would take the silve
 >> - its direct evidentiality and 
 >> - its temporal interpretation (indicating that the speaker acquires direct perceptive evidence before the utterance time). 
 
-Data: 22. $[[-te]] = \lambda P_{<s,<i,t>>}.\lambda w.\lambda t. \exists t''[t''<t \land \forall w'[w' \in BEST(SO,ST/DX, w, t'' \rightarrow P(w')(t''))]]$ (where $BEST$ is the function which maps world-time pairs(w, t) to sets of worlds which are the most highly ranked with respect to the stereotypical/doxastic ordering source $ST/DX(w,t)$ in the sensory observation modal base $SO(w,t)$ )
+Data: 22. $[[-te]] = \lambda P_{<s,<i,t>>}.\lambda w.\lambda t. \exists t''[t''<t \land \forall w'[w' \in BEST(SO,ST/DX, w, t'') \rightarrow P(w')(t''))]]$ (where $BEST$ is the function which maps world-time pairs(w, t) to sets of worlds which are the most highly ranked with respect to the stereotypical/doxastic ordering source $ST/DX(w,t)$ in the sensory observation modal base $SO(w,t)$ )
 
 ##### two different evidential presuppositions introduced by -te- in terms of the interaction between -te- and tense markers. 
 - Direct evidential presupposition: Overlap
