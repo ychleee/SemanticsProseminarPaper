@@ -5,7 +5,7 @@ author: ["Choi, Hee Joong"]
 ---
 
 >[!Change Directory (start at the right place)]
->This specific line is for Hee only. Exact address would differ (probably after "Mobile Documents")
+>This specific line is for Hee only. Exact address would differ (probably after "Mobile\ Documents")
 >> cd ~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/HJChoi/ideaBlocks/Semantics\ Proseminar\ Term\ Paper
 
 ### 1. Synchronize

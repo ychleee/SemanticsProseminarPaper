@@ -124,8 +124,8 @@ Data:: 18. (Without $-te-$  )   | $-ass-$: perfective(anterior) tense | $-keyss-
 >2. Furthermore, it predicts that the sentence where -te- is used without a tense marker should carry the direct evidential presupposition (due to the covert direct evidential marker), 
 >	- contrary to what we saw in Section 2.2 and 2.3: ==-te- may also introduce the inferential evidential presupposition, even without any tense.==
 
-### 4.2 -te- as epistemic modal (2010)
->[!note] Lee(2010) shows that the semantic behavior of -te- is similar to that of epistemic moals. 
+### 4.2 -te- as epistemic modal (Lee 2010)
+> [!note] Lee (2010) shows that the semantic behavior of -te- is similar to that of epistemic modals. 
 
 1. First, the negation of the prejacent in the immediately following sentence is infelicitous (Lee 2010: 296):
 
@@ -133,14 +133,14 @@ Data:: 19. a) It must have been raining / # It did not rain  |    b) 비가 오�
 
 2. Neither of them is compatible with the first-person subject (Lee 2010: 297)
 
-Data:: 20. a) Mary/ # I must be going to school   |   b) 메리가 / # 내가  학교에 가더라.  ^891911
+Data:: 20. a) Mary / # I must be going to school   |   b) 메리가 / # 내가 학교에 가더라.  ^891911
 
-3. Finally, both show modal subordination (Robers 1989) as in (21) (Lee 2010:299):
+3. Finally, both show modal subordination (Roberts 1989) as in (21) (Lee 2010:299):
 
-Data: 21. a) A theif might break into the house. He # will/ would take the silver. | b) 도둑이 들었더라. 그는 키가 # 작다  ^36e646
+Data: 21. a) A thief might break into the house. He # will/ would take the silver. | b) 도둑이 들었더라. 그는 키가 작음에 틀림없다 / # 작다  ^36e646
 - A thief broke in (with inferential evidentiality) # He is short / he must be short.
 
-> [!note] Lee(2010): -te- is an epistemic necessity modal (cf. Kratzer 1991)
+> [!note] Lee (2010): -te- is an epistemic necessity modal (cf. Kratzer 1991)
  -te- is an epistemic necessity modal with the semantic components regarding 
 >> - its direct evidentiality and 
 >> - its temporal interpretation (indicating that the speaker acquires direct perceptive evidence before the utterance time). 
