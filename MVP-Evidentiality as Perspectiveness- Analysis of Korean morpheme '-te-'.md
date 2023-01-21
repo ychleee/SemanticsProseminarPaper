@@ -10,7 +10,8 @@ fontsize: 14pt
 [[Semantics Proseminar Term Paper]]
 # Abstract
 
-In this paper, we propose a new account of the so-called *-te-* marker in Korean assertions. Our perspective differs from previous studies by Lee (2010, 2013) and Lim (2010), who suggest that *-te-* is an evidential marker. Instead, we align with Chung's (2007) argument that *-te-* is a (spatio-)temporal deictic marker that signifies the perspective on which the assertion is based. However, we diverge from Chung's view by denying that morphemes such as "-ass-," "-kyess-," and "ø" are evidential markers in "-te-" sentences.
+In this paper, we propose a new account of the so-called evidential *-te-* in Korean assertions. Our perspective differs from previous studies by Lee (2010, 2013) and Lim (2010), who suggest that *-te-* is an evidential marker. Instead, we align with Chung's (2007) argument that *-te-* is a (spatio-)temporal deictic tense that signifies the perspective on which the assertion is based. However, we diverge from Chung's view by denying that (tense) morphemes such as *-ass-*, *-kyess-* and ø-morpheme are evidential markers in *-te-* sentences.
+C:: Hee: What does it mean to "signify"? If *-te-* is a tense marker, can it "signify perspectives"?
 
 We argue that in Korean -te- assertive sentences, there is no evidential morpheme that marks  [[The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua#^71d4a3|propositional-level evidentiality]]^[Faller (2004), "The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua"], which is a relation between speaker and the proposition. Instead, we propose that the propositional-level evidentiality of -te- assertions comes from conversational implicature of plain assertions. In our account, -te- assertions are understood as plain assertions whose evidential vantage point is marked. As it is already a version of plain assertion, it already has propositional-level evidentiality of assertive sentences. Therefore, -te- sentences do not need an additional marker for propositional-level evidentiality. The role of "-te-" is to specify the vantage point on which the assertion's evidence is based on.
 
@@ -93,8 +94,9 @@ By Gricean Maxim of quality, and the fact that plain assetion is the strongest, 
 [[Supplementary Material for Semantics Term Paper]]
 
 - Our account of '-te-': It is not itself an evidential. 
-# Introduction: Evidential and Korean Morpheme '-te'
-## Desiderata for -te-
+# 1. Introduction
+## 1.1. Evidentiality and Korean *-te-*
+## 1.2. Constraints on *-te-*
 ### 1. Speaker's personal observation Constraint [[Spatial deictic tense and evidentials in Korean#Speaker's Personal Obeservation Constraint|Chung (2007)]]
 In paradigm cases, a sentence with -te- must describe a situation that the speaker witnessed.
 ### 2. Equi-subject constraint [[Spatial deictic tense and evidentials in Korean#Equi-Subject Constraint|Chung (2007)]]
@@ -105,8 +107,8 @@ In case of sensory or psych predicates such as '외롭,' '좋,' the ubject of a 
 In case of predicates except for sensory and psych predicates, the subject of sentence cannot be the speaker. 
 ### 4. More data(Lim) -te- always requires direct perceptual evidence.  [[Korean Evidential -te- Inference from Direct Evidence#2.1 -te- always requires direct perceptive evidence|Lim (2012)]]
 - 어제 비가 왔더라. #
-	-  (Scenario: John is sick, so he has stayed in his bed since yesterday and has not been outside at all. John’s room does not have any window, so he could not see outside, either. Today he heard from his roommate that the it rained yesterday. John says to his friend on the phone...)
-		- 어제 비가 왔더라. 
+	-  (Scenario: John is sick, so he has stayed in his bed since yesterday and has not been outside at all. John’s room does not have any window, so he could not see outside, either. Today he heard from his roommate that the the ground is wet. John says to his friend on the phone...)
+		- 어제 비가 왔더라. (infeliciotous)
 	- This data shows that -te- with an overt tense is allowed only when speaker's direct perceptive evidence.
 ###### More Thinking
 - 이게 정확히 무슨 Constraint? Evidence에 대한 Herasay같은것을 제외하려고 하는 것인가? 
@@ -125,17 +127,9 @@ In case of predicates except for sensory and psych predicates, the subject of se
 	- 맥락: (Scenario: Mary was sick, so she stayed in her bed all day long. Her room does not have any window, so she could not see outside at all. Now she saw that her roommate came home with a wet umbrella and a wet raincoat. She says to her friend on the phone...)  
 C:: 정에 대한 반박?
 
-### 6. More data(Lim)The prejacent of -te- may denote future eventuality without any overt tense.[[Korean Evidential -te- Inference from Direct Evidence#2.3 The prejacent of -te- may denote future eventuality without any overt tense|Lim (2012)]]
-
-## Our account
->[!note] Our account of -te-
->1. -te- is not an evidential morpheme that marks propositional-level evidentiality
->2. -te- assertive sentence is an assertive sentence that asserts an event P is the case. 
->3. '-te-' is a deictic tense that marks the vintage point the event is  asserted 
-
-We argue that in Korean -te- assertive sentences, there is no evidential morpheme that marks  [[The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua#^71d4a3|propositional-level evidentiality]]^[Faller (2004), "The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua"], which is a relation between speaker and the proposition. Instead, we propose that the propositional-level evidentiality of -te- assertions comes from conversational implicature of plain assertions. In our account, -te- assertions are understood as plain assertions whose evidential vantage point is marked. As it is already a version of plain assertion, it already has propositional-level evidentiality of assertive sentences. Therefore, -te- sentences do not need an additional marker for propositional-level evidentiality. The role of "-te-" is to specify the vantage point on which the assertion's evidence is based on.
-# Overview of previous accounts
-## [[Spatial deictic tense and evidentials in Korean|Chung]]'s account
+### 6. More data(Lim)The prejacent of -te- may denote future eventuality without any overt tense. [[Korean Evidential -te- Inference from Direct Evidence#2.3 The prejacent of -te- may denote future eventuality without any overt tense|Lim (2012)]]
+# 2. Overview of previous accounts
+## 2.1. [[Spatial deictic tense and evidentials in Korean|Chung (2006)]]
 ### account
 1. '더' is not evidential morpheme, but '었', '겠', $\emptyset$ is evidential morpheme. 
 	1. argument?: Ambiguity thesis
@@ -145,7 +139,7 @@ We argue that in Korean -te- assertive sentences, there is no evidential morphem
 	1. Chung's typological assumption is not empirically supported.
 2. There are other ways to explain this ambiguity phenomena. Such as Lee's.
 
-## [[Temporal constraints on the meaning of evidentiality|Lee]]'s account
+## 2.2. [[Temporal constraints on the meaning of evidentiality|Lee (2010, 2013)]]
 ### account
 1. '더' marks sensory evidence.
 	1. there are lingering problems: 
@@ -171,15 +165,41 @@ We argue that in Korean -te- assertive sentences, there is no evidential morphem
 - 뉴스 보고 '오바마 오더라'라고 말하는 경우
 	- Is this the case of sensory perception? 
 	- Surely, it involves senseory perception in the process, because we actually watched 
-## [[Korean Evidential -te- Inference from Direct Evidence|Lim 2012]]'s account
+## 2.3. [[Korean Evidential -te- Inference from Direct Evidence|Lim (2012)]]
 ### account
 
 ### critique
 
 ## Comparsion and assessment
 - Desiderata for '-te' sentences
+
+
+
+## Our account
+>[!note] Our account of -te-
+>1. -te- is not an evidential morpheme that marks propositional-level evidentiality
+>2. -te- assertive sentence is an assertive sentence that asserts an event P is the case. 
+>3. '-te-' is a deictic tense that marks the vintage point the event is  asserted 
+
+We argue that in Korean -te- assertive sentences, there is no evidential morpheme that marks  [[The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua#^71d4a3|propositional-level evidentiality]]^[Faller (2004), "The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua"], which is a relation between speaker and the proposition. Instead, we propose that the propositional-level evidentiality of -te- assertions comes from conversational implicature of plain assertions. In our account, -te- assertions are understood as plain assertions whose evidential vantage point is marked. As it is already a version of plain assertion, it already has propositional-level evidentiality of assertive sentences. Therefore, -te- sentences do not need an additional marker for propositional-level evidentiality. The role of "-te-" is to specify the vantage point on which the assertion's evidence is based on.
+
 	1. direct evidence
-# Our Account: '더' as marking *observation* : "It was observed by the speaker/hearer"
+# 3. Our Account: '더' as marking *observation* : "It was observed by the speaker/hearer"
+## Thesis (1) what *-te-* is not
+## Thesis (2) *-te-* as perspective(vantage point)
+### Time talk
+- presupposed meaning of the 'EAT': EAT < ST
+- Usual neo-Reichenbachian time ontology: ET <-> RT <-> ST
+	- RT is unspecified when aspect is morphologically invisible
+## Thesis (3) Evidentiality without "evidentials"
+- How we differ from Lee or Chung's account
+
+---
+
+EAT는 RT에 대한 증거적 관점.
+
+---
+
 > 더 sentences and normal sentences isn't differentiated in terms of requirement of evidences
 ## the meaning of '더': ("It(the event) was observed (by the speaker) )that"
 - the meaning of '네': "It is observed that"
@@ -280,15 +300,22 @@ We argue that in Korean -te- assertive sentences, there is no evidential morphem
 -   “선생님, 이거 못하겠어요/못하겠네요(자기 일이 아닌 것처럼, active participant가 아닌 것처럼/유체이탈 화법)”
     
 -   “선생님, 이거 어려워요/어렵네요"
-# Cross-linguistic Comparison
-# Conclusion
+- 
+# 4. Comparisons with previous accounts
+# 5. Cross-linguistic implications
+# 6. Conclusion
 
 # References
 
 [[Korean Evidential -te- Inference from Direct Evidence]]
 ###### Ingredients
 - 
-
+```dataview 
+TABLE WITHOUT ID C
+FROM "ideaBlocks/Semantics Proseminar Term Paper/MVP-Evidentiality as Perspectiveness- Analysis of Korean morpheme '-te-'"
+WHERE C != null
+FLATTEN C
+```
 
 ```dataview 
 TABLE Data 
