@@ -68,7 +68,7 @@ I present the primary system for expressing evidential distinctions in Cuzco Que
 	(2) a. Para-sha-n-mi. 
 				rain-PROG-3-BPG
 				p = ‘It is raining.’  
-				EV: sp sees that it raining, 
+				EV: sp sees that it is raining, 
 	
 			b. Para-sha-n-cha ́ . 
 				rain-PROG-3-CONJ
@@ -352,6 +352,7 @@ To illustrate how this accounts for simple cases, consider example (35).
 > I propose analysing this spatial meaning aspect of -sqa in terms of two spatio-temporal trace functions (cf. the path function of [[Verkuyl & Zwarts 1992]]), called e-trace and P-trace. **E-trace**, defined in (36), maps an eventuality e onto its time-space coordinates. Each temporal interval t that is included in the temporal trace τ(e) is paired up with the location l of the eventuality at time t. The output of e-trace is a set of time-location pairs ⟨t,l⟩, the ‘run-time-space’ of the eventuality.
 
 	(36) e-trace(e) = {⟨t,l⟩ | t ⊆ τ(e) ∧ AT(e,t,l)}
+	(37) P-trace(sp) = {⟨t,l⟩ | t ⊆ τ(sp) ∧ PERCEIVE(sp,t,l) }
 
 
 ## 5. THE EVIDENTIAL INTERPRETATIONS OF *-sqa*
