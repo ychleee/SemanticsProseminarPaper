@@ -131,7 +131,7 @@ In the remainder of this introduction, a brief summary of constraints on *-te-* 
 Following constraints are commonly assumed in the papers under discussion. We present a summary of each constraint, with the glossing slightly modified for a unified demonstration.
 
 ### 1.2.1. Speaker's Personal Observation Constraint
-In paradigmatic cases, a sentence with *-te-* must describe a situation that the speaker witnessed (Chung, 2006; a.o.). When there is no perfective aspect in *-te-* sentence, sentence (5) is an infelicitous utterance from a speaker who is not a contemporary of Shakespeare. (Chung further supports this constraint by noting that the context where the speaker saw a movie of Shakespeare's biography would save 5. We agree with this observation.)
+In paradigmatic cases, a sentence with *-te-* must describe a situation that the speaker witnessed (Chung, 2007; a.o.). When there is no perfective aspect (*-ass/ess-*^[These two morphemes are allomorphs. Decision among these two are purely phonological.]) in a *-te-* sentence, sentence (5) is an infelicitous utterance from a speaker who is not a contemporary of Shakespeare. (Chung further supports this constraint by noting that the context where a speaker saw a movie of Shakespeare's biography would save 5. We agree with this observation.)
 
 \ex. 
 \gll. ku tangsi mary-ka ce cip-ey sal-te-la.\\
@@ -143,7 +143,7 @@ that time Mary-NOM that house-LOC live-TE-DEC\\
 that time Shakespeare-NOM that house-LOC live-TE-DEC\\
 `[I saw] Shakespeare was living in that house at that time.’
 
-### 1.2.2. Equi-Subject Constraint [[Spatial deictic tense and evidentials in Korean#Equi-Subject Constraint|Chung (2007)]]
+### 1.2.2. Equi-Subject Constraint 
 In case of sensory or psych predicates such as *oylop-* (be lonely), *coh-* (like), the subject of a *-te-* sentence must be the speaker.^[Why? because, in [[Anscombe, G. E. M.|anscombe]]'s sense, it is not that we know our actions from our observation. We can make it more precise: in case actions, we cannot use *-te-*, because it is, in some sense, unobservable by us.]
 
 \ex.
@@ -166,7 +166,7 @@ that-time-TOP I-NOM Mary-NOM like-TE-DEC\\
 that-time-TOP John-NOM Mary-NOM like-TE-DEC
 `[I felt] John liked Mary at that time.’
 
-An additional restriction is that not all sensory or emotional predicates but only unaccusative ones whose subject is an experiencer (and not an agent) follows this constraint. Note the auxiliary `do'-verb in the following sentences.
+An additional restriction is that not all sensory or emotional predicates but only unaccusative ones whose subject is an experiencer (and not an agent) follows this constraint. Note that the auxiliary `do'-verb in the following sentences changes the acceptability of 1st person subject - sensory/psych predicate association in *-te-* sentences.
 
 \ex.
 ??ku-ttay-nun nay-ka mopsi oylow-**eha**-te-la.\\
