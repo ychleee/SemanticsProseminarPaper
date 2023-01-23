@@ -40,6 +40,7 @@ data: 4. # 어제 비가 왔더라.
 Data:: 5. 오늘 밖에 비가 오더라.
 - 맥락: (Scenario: Mary was sick, so she stayed in her bed all day long. Her room does not have any window, so she could not see outside at all. Now she saw that her roommate came home with a wet umbrella and a wet raincoat. She says to her friend on the phone...)
 C:: 정에 대한 반박?
+
 ### 2.3 The prejacent of -te- may denote future eventuality without any overt tense
 
 Data:: 6. 존이 WWCFL에서 논문을 발표하더라.
