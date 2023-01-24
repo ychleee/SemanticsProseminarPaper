@@ -16,6 +16,10 @@ We argue that in Korean *-te-* assertive sentences, there is no evidential morph
 
 We will demonstrate that our account can comprehensively explain the data presented in Lee, Lim, and Chung's studies and does not encounter the problems each of their accounts faced.
 
+
+###### Ingredients
+[[Supplementary Material for Semantics Term Paper#Abstract Ingredients|Abstract Ingredients]]
+
 # 1. Introduction
 ###### ingredients: first sentence
 - Chung 2007: The status of the Korean suffix -te presents an intriguing puzzle and is the source of much controversy in the Korean literature.
@@ -236,6 +240,7 @@ Cross-linguistically, in one of the widespread two-fold evidential system ([[Aik
 
 We argue that in Korean -te- assertive sentences, there is no evidential morpheme that marks  [[The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua#^71d4a3|propositional-level evidentiality]]^[Faller (2004), "The Deictic Core of ‘Non‐Experienced Past’ in Cuzco Quechua"], which is a relation between speaker and the proposition. Instead, we propose that the propositional-level evidentiality of -te- assertions comes from conversational implicature of plain assertions. In our account, -te- assertions are understood as plain assertions whose evidential vantage point is marked. As it is already a version of plain assertion, it already has propositional-level evidentiality of assertive sentences. Therefore, -te- sentences do not need an additional marker for propositional-level evidentiality. The role of "-te-" is to specify the vantage point on which the assertion's evidence is based on.
 
+< h0123b
 1. direct evidence
 # 3. Our Account: *-te-* as marking perspective 
 ## 3.1. what *-te-* is not
@@ -287,114 +292,104 @@ C:: Hee - I rephrased the highlighted sentence. Please check.
 
 ## Thesis (3) Evidentiality without "evidentials"
 - How we differ from Lee or Chung's account
+=======
+# 3. Our Account: '더' as marking perspective 
+## Thesis (1) what *-te-* is not
+### -te- is not necessary modal. (Contra Lee)
+We propose a new understanding of the Korean "-te-" marker in assertive sentences. Our perspective diverges from previous studies, particularly Lee (2013) who analyzed -te- as a necessity modal. However, we argue that -te- is not a necessity modal.
 
----
+Lee (2013) presents a lexical entry for -te- as seen in data 22, which is as follows: 
+$[[-te]] = \lambda P_{<s,<i,t>>}.\lambda w.\lambda t. \exists t''[t''<t \land \forall w'[w' \in BEST(SO,ST/DX, w, t'') \rightarrow P(w')(t''))]]$ This lexical entry, however, faces difficulty in explaining data such as the following scenario:
 
-EAT는 RT에 대한 증거적 관점.
+Context1: There was a murder in the neighborhood of John: Bill was murdered by someone. John is a close friend to Bill. He lives next door and he is one of the officials who investigated the incident. John saw that Bill and Tom fought heavily the day before the murder. (Tom said "I will kill you.") And he saw that Tom buying a gun and bullets right after the fight. What he also saw was Tom going toward the direction to Bill's house on the day of the murder. And by investigating the situation, he found out that the type of bullet that Tom bought the day before the murder was the same kind of bullet that Bill had been shot. The next day of the murder, John talks to his officer friend about the murder.
+1a. \# "톰이 빌을 쏜 것이 틀림없어" (It must be the case that Tom shoot Bill.)
+1b. "톰이 빌을 쐈더라." ([It is observed by the speaker] Tom shoot Bill.)
 
----
+1.  In this situation, John can felicitously assert the necessity epistemic modal: "톰이 빌을 쏜 것이 틀림없어" (It must be the case that Tom shoot Bill.)
+2.  But, John cannot felicitously assert -te- sentence: "톰이 빌을 쐈더라." ([It is observed by the speaker] Tom shoot Bill.)
+3.  But by if we follow Lee (2013)'s analysis of _-te-_ and take lexical entry of $[[-te-]]$, John can felicitously assert that "톰이 빌을 쐈더라."
+ 
+1 is because given his sensory observations of evidences (modal base) and stereotypical/doxastic ordering source, the proposition that Tom shoot Bill is true in all epistemic alternative worlds for John. However, it is infellicitous speak assert -te- sentence "톰이 빌을 쐈더라." 
 
-> 더 sentences and normal sentences isn't differentiated in terms of requirement of evidences
-### the meaning of '더': ("It(the event) was observed (by the speaker) )that"
-- the meaning of '네': "It is observed that"
-#### Observation here means direct perception, or something near enough
-##### In paradigm cases, Observation means direct perception(sensory perception is the paradigm case of observation)
-###### Case 1
-1. 아까 비가 오더라.
-	- (It was observed (by the speaker)) that it rained then.
-2.  아까 비가 왔다.
-	- It rained then.
-- 1 requires direct direct sensory perception. 
+This example illustrates that Lee's lexical entry for -te- is unable to explain why John cannot felicitously assert the sentence "톰이 빌을 쐈더라" using -te-, even though the evidence he acquired through sensory observation is strong enough to eliminate epistemic (stereotypical/doxastic) alternatives. In contrast, John can felicitously assert the sentence in different situations in which he watched the murder scene himself. 
 
-##### Observation isn't restricted to sensory observation (Contra Lee)
-1. 그때는 욕심이 나더라. 
-2. 그때 좋은 생각이 났다. 
-##### Observation Can't be determined by degree of certainty 
-1. 그때 내가 좋은 생각이 났다. (felicitous)
-2. # 그때 내가 계획을 짜고 있더라. (infelicitous)
-- 1, 2 has no difference in terms of certainty. They are both certain to the speaker. But 1 is acceptable while 2 is not. We need some other criterion.
-- evidentiality of '더' is not reducible to degree of certainty (contra Lee)
+Context2: John saw the scene Tom shooting Bill.
+2a. \# "톰이 빌을 쏜 것이 틀림없어" (It must be the case that Tom shoot Bill.)
+2b. "톰이 빌을 쐈더라." ([It is observed by the speaker] Tom shoot Bill.)
 
-##### Something Near enough: Two hypothesis: 
->1. Best possible evidendence hypothesis
-> >One can use '더' if one had best possible evidence available at EAT.
-> >해당 맥락에서 가장 강한 증거. 
+This suggests that in order to make -te- assertion, John is not just required to have sensory observation of evidence, but is required to directly observation of the eventuality. In other words, not only sensory observation that has strong modal connection to the event is required for John, but sensory observation of the event itself is required to assert using '-te-' in this context. Lee's lexical entry does not have that kind of constraints (sensory observation of the event itself) so it wrongly predicts that it is felicitous to speak 1b.
 
-> 2. Extended observation hypothesis 
-> > One can use '더' if one observed the event (including 'extended' sense of observation) at EAT.
-> > - Extended observation? ==perceived through highly credible source. ==
+###### Draft and ingredient
+[[Supplementary Material for Semantics Term Paper#Thesis 1: What -te- is not]]
 
-##### Testing the hypothesis
-###### Case 2: Evidence change (Weather Forecast)
-- 맥락: 오늘(10일) 오전에 내일(11일) 비가 온다는 일기예보를 보고, 점심을 먹다가 상대방에게 내일 날씨에 대해서 얘기하는 상황. 
-1. 내일 아침에 비가 오더라. (felicitous)
-	- (It was observed (by the speaker)) that it will rain tommorow morning .
-2. 내일 아침에 비와. (felicitous)
-	1. It will rain tommorow morning.
-- 맥락: 11일 오후가 되었음. 늦잠자고 일어남. 실내에 있었기 때문에 비가 온 것은 관찰하지 못함. 그 상태에서 옆 사람에게 아침 날씨에 대해 얘기하는 상황. 
-3. 아까 아침에 비가 오더라.  (Infelicitous)
-4. 아까 아침에 비 온 것 같던데. (Infellicitous)
-5. 아까 아침에 비 온 것 같아. (Infellicitious)
-6. 아까 아침에 비 왔을지도 몰라. (Fellicitous)
+### - te- is not a morpheme that marks propositional-level evidentiality.
 
->Question: Why is 3,4,5 infellicitous? while 6 is fellicitous?
-- Evidence based on weather forcast became a fairly weak evidence on 11. So, it is only compatible with very weak form of assertion such as 6.
-- What had been considered as 'direct observation or something near enough' at one context 
+We argue that -te- is not an evidential marker. Our perspective diverges from the mainstream views in previous studies, notably Lee (2013) and Lim (2010) who argue that -te- is a morpheme that marks evidentiality.
 
-###### Case 3: Evidence change (News) 
-> Best Evidence Hypothesis: One can use '더' if one had best possible evidence available 
-- 맥락: 내일(11일) 오전에 바이든이 서울에 온다는 뉴스를 오늘(10일) 오전에 들었고, 오늘(10일) 점심을 먹다가 동료에게 얘기하는 상황.
-7. 내일 바이든이 서울에 와. (felicitous)
-	- (It is observed (by the speaker)) that Biden will come to Seoul tommorow.
-8. 내일 바이든이 서울에 오더라. (felicitous)
-	1. Biden will come to Seoul tommorow. 
-- 맥락: 11일 저녁이 되었음. 실제로 바이든이 왔는지는 보지 못했음. 동료에게 얘기하는 상황. 
-9. 바이든 서울 왔더라. (infellicitous)
-10. 바이든 서울 왔어. (==infellicitous?==)
-- 맥락: 조금 다른 상황. 11일 오후에 바이든이 무사히 서울에 도착했다는 뉴스를 보았음. 동료에게 얘기하는 상황. 
-11. 바이든 서울 서울 왔더라. (felicitous)
-12. 바이든 서울 왔어. (felicitous)
-> Question: why 9, 10 is infellicitous while 7 and 8 is fellicitous?
-> > Best possible evidence available hypothesis can explain this case. 
+In this respect, our account is similar to Chung (2007)'s account. Chung also argues that -te- is not an evidential marker. Instead, Chung proposed that morphemes like -ass- or -kyess-, or ø, when appeared in -te- sentences, play the role of evidential marker that contributes the meaning of evidentiality to -te- sentences. Morphemes like -ass- or -kyess- are tense morphemes in other contexts, but with -te-, they become evidentials. This ambiguity thesis of Korean tense morphemes, however, has faced serious objections, as we have seen in previous chapters. It is neither independently motivated nor correctly predicts indirect/direct distinctions.
 
-> Question: Why 11 and 12 is fellicitous while 9 and 10 is infellicitous? 
-> > "Best possible evidence available hypothesis" fails here. 
-##### The difference between 1 and 2
-1. 비가왔다.
-	- It rained.
-2. 비가오더라. 
-	- (It was observed (by the speaker) that) it rained.
-> The difference between 1 and 2: 
+We acknowledge that there is a propositional-level evidentiality in -te- assertive sentences, in that the speaker must have an appropriate level of evidence in order to felicitously assert the -te- sentence. However, we argue that this evidential element is not added by '-te-', as Lee and Lim argued, or by '-ass-,' 'kyess,' or ø, as in Chung's account. Instead, we argue that this evidentiality is the result of conversational implicature of assertion, not something that is contributed by an evidential marker.
+
+To show this, we will argue that plain assertive Korean sentences without -te-, still exhibits the propositional level evidentiality. In fact, in the same context, there is no difference in evidential requirement for the speaker concerning evidence types with plain assertions and -te- assertions. They both require the strongest type of evidence: observational evidence.
+
+Our argument that -te- is not an evidential marker is that it does not contribute evidential meaning to a plain assertion. In most cases, if we delete -te- from -te- assertion to get plain assertion, the evidential requirement still remains. Let us consider the murder cases again.
+
+context 1: (John did not observed the murder scene) John is saying to his friend. 
+1a."톰이 빌을 쏜 것이 틀림없어." It must be the case that Tom shoot Bill. 
+1b. #"톰이 빌을 쐈더라." [the speaker observed that] Tom shoot Bill. 
+1c. #"톰이 빌을 쐈어." Tom shoot Bill.
+
+context 2: (John observed the murder scene) John is saying to his friend, 2a. # "톰이 빌을 쏜 것이 틀림없어."
+2b. "톰이 빌을 쐈더라." [The speaker observed that] Tom shoot Bill 
+2c. "톰이 빌을 쐈어." Tom shoot Bill
+
+In the first context, John did not observe the murder scene himself, so he cannot felicitously assert the -te- sentence "톰이 빌을 쐈더라." or the plain assertion "톰이 빌을 쐈어." as he does not have direct observational evidence. He can only felicitously assert the necessity epistemic modal "톰이 빌을 쏜 것이 틀림없어." which denotes that given his sensory observations of evidences and stereotypical/doxastic ordering source, the proposition that Tom shoot Bill is true in all epistemic alternative worlds for John.
+
+On the other hand, in the second context, John has directly observed the murder scene, so he can felicitously assert the -te- sentence "톰이 빌을 쐈더라." and the plain assertion "톰이 빌을 쐈어." as he has direct observational evidence.
+
+This example illustrates that -te- is not an evidential marker as it does not contribute evidential meaning to a plain assertion. The evidential requirement remains the same in both plain assertions and -te- assertions, which requires the strongest type of evidence: observational evidence. This shows that the evidential requirement is not added by -te-, contra Lee (2013), and Lim (2011). Additionally, it also refutes the ambiguity thesis of Korean tense morphemes proposed by Chung (2007) as -te- does not affect the evidential requirement of assertions with morphemes -kyess-, 'ess', or ø. Chung's account predicts that sentences with -kyess-, 'ess', or ø without -te- would not exhibit evidentiality. But this is not so, because as we can see in 2c, plain assertion also exhibits same type of evidential requirement for the speaker as 2b, -te- assertion.  
+
+In summary, our argument is that -te- is not a morpheme that marks propositional-level evidentiality. Instead, we proposed that the propositional-level evidentiality in -te- assertive sentences is the result of conversational implicature of assertion, not something that is contributed by an evidential marker. Our argument is supported by the fact that plain assertive Korean sentences without -te- still exhibit the propositional level evidentiality and require the same level of evidence.
+###### Ingredients
+[[Supplementary Material for Semantics Term Paper#Thesis 1: -te- is not an evidential marker]]
+
+## Thesis (2) *-te-* as marking perspective(vantage point) -te- 
+> main
+
+Then what does -te- contribute? We propose that -te- is a deictic tense that denotes an EAT (Evidence Acquisition Time) that is prior to ST (Speech Time) and that this EAT is an evidential perspective from which the speaker meets this evidential requirement. Informally speaking, '-te-' locates the assertion's evidential vantage point at a time before ST. And from that vantage point, the speaker is required to meet the evidential requirement that is created by conversational implicature of assertion in that context.
+To illustrate this, let us start from plain assertive sentence without -te-. 
+
+3a. 지금 밖에 폭풍쳐. It is storming outside now 
+
+Griciean Maxim of Quality of conversational implicature says that one should assert things only one has appropriate evidence. We will add up that rule a bit and argue that conversational implicature requires this rule: An assertion's strength should match the evidence's strength. (The assertion's strength must be proportional to one's evidence's strength. )
+By this Implicature, plain assertions requires the strongest type of evidence because they are strongest type of assertion. 
+In most contexts, this means that plain assertion requires a direct evidence, which is the strongest type of evidence. So the sentence 3a, which is a plain assertion, requires a direct observational evidence, or something on the par, for a speaker to felicitously say it. 
+This evidential requirement for speaker doesn't change if we add '-te-' to the sentence.
+
+3b. 지금 밖에 폭풍 치더라. [The speaker observed that] It is raining outside now. 
+
+In case of -te- sentences like 3b), it is infellicitous to say the sentence without direct observation. For instance, it is infellicitous to say 3b by getting an evidence from hearsay. 
+Then what is the difference between 3a and 3b? '-te-' in 3b denotes EAT that is prior to ST. And that EAT is the vantage point from which the evidential requirement of the assertion should be met. In contrasts 3a has no that kind of constraints. This can be shown by this example.
+
+Context: storm-a
+- Amy is watching through the window that it stroms dangerously outside. After some time, in her house she came across with her brother who was preparing to go outside. He presumably was in his basement playing games all day long. She says to her brother, 
+- 3a. 지금 밖에 폭풍쳐. It is storming outside now. 
+- 3b. 지금 밖에 폭풍치더라. [The speaker observed that] It is storming outside now. 
+
+Context: storm-b
+- Amy is watching through the window that it stroms daingously outside. While watching, she is telling her sister who did not watched the scene (nor heard the sound of storm) yet, 
+- 3a. 지금 밖에 폭풍쳐. It is storming outside now. 
+- 3b. \#지금 밖에 폭풍치더라. [The speaker observed that] It is storming outside now. 
+
+There is no difference of level of evidence required for Amy to speak 3a and 3b in both cases. In both cases, the requirement of direct evidence, or something on a par is required to assert either 3a or 3b. (It is infelicitous for Amy to say either 3a or 3b without strong evidence.)
+However, in the second context, 3b is infellicitous because of -te- in 3b, it has a presupposition that EAT is prior to ST. So, she can't speak 3b, because she is watching the storm now. 
+This clearly shows what -te- contributes in assertions. It does not create an additional evidential requirement that wasn't there. But, in -te- sentences, it has a presupposition that there is a salient time (EAT) before speech time from which the speaker meet this evidential requirement. 3b in the second context violated this presupposition. So it is infellicitous. 
+
+###### Ingredients
+[[Supplementary Material for Semantics Term Paper#Thesis (3) Evidentiality without "evidentials"]]
+[[Supplementary Material for Semantics Term Paper#Thesis (3) -te- sentences as expressing an assertion made from a perspective (EAT).]]
 
 
-#### What can be observed and what cannot be observed: Anscomb
-- how do we understand 'perspective'
-	- The first person case
-- How this proposal differs from previous accounts
-	- Chung's
-	- Lee's
-	- Lim's
-- How this proposal meets desiderata for '-te' 
-
-### Evidentiality of '더'
-> [!note] There is no difference between '더' sentence and plain assertion in terms of requirement for direct evidence.
-> > 'perspective' can. 
-- It is true that 더' sentences require evidence. The strongest evidence available for the speaker. 
-	- However, it is not because '더' marks some special sort of 'evidential meaning' or 'requirement of evidence,' but because assertion itself requires evidence. '더' sentences are also assertions.
--  Does sentences with '더' requires an additional evidence? Is there an additional requirement for evidence in '더' sentences? In these cases, both sentences require the strongest evidence(in this case, direct evidence). So, requirement of evidence caannot distinguish two sentences. 
-	- But, these sentences differ in their meanings. 
-	-   그런데, ‘관점성'으로는 가능함. 
-	-   희중: Chung의 여러 예시들 (5,6,7,8) ‘더'를 쓴 문장들에서 ‘더'를 빼고 말해도 이상하지 않음. 
-	-   두 경우 모두 발화하려면 직접 증거를 요구한다는 점에서는 동일하다. (같은 증거 상황에서 발화 가능) 
-	-   하지만, 두 발화는 다르다. 어떤점에서? ‘더'가 들어가면 관점성이 개입해서 hedging이 이뤄진다. 
-	-   선생-제자 대화 예시에서, 선생의 전문분야(권위가 선생한테있는)에 대해서 제자가 ‘A더라구요.’ 라고 하는것은 Acceptable한 여지가 있지만, (자신이 이런저런 관찰을 했다는 뉘앙스가 있음) 하지만 ‘A에요.' 라고 plain assertion을 하는 것은 무리가 있다. 
-    
--   Reverse cases
-
--   “선생님, 이거 못하겠어요/못하겠네요(자기 일이 아닌 것처럼, active participant가 아닌 것처럼/유체이탈 화법)”
-    
--   “선생님, 이거 어려워요/어렵네요"
-- 
 # 4. Comparisons with previous accounts
 # 5. Cross-linguistic implications
 # 6. Conclusion
