@@ -383,14 +383,40 @@ Context: storm-b
 
 There is no difference of level of evidence required for Amy to speak 3a and 3b in both cases. In both cases, the requirement of direct evidence, or something on a par is required to assert either 3a or 3b. (It is infelicitous for Amy to say either 3a or 3b without strong evidence.)
 However, in the second context, 3b is infellicitous because of -te- in 3b, it has a presupposition that EAT is prior to ST. So, she can't speak 3b, because she is watching the storm now. 
-This clearly shows what -te- contributes in assertions. It does not create an additional evidential requirement that wasn't there. But, in -te- sentences, it has a presupposition that there is a salient time (EAT) before speech time from which the speaker meet this evidential requirement. 3b in the second context violated this presupposition. So it is infellicitous. 
+This shows what -te- contributes in assertions. It does not create an additional evidential requirement that wasn't there. But, in -te- sentences, it has a presupposition that there is a salient time (EAT) before speech time from which the speaker meet this evidential requirement. 3b in the second context violated this presupposition. So it is infellicitous. 
 
 ###### Ingredients
 [[Supplementary Material for Semantics Term Paper#Thesis (3) Evidentiality without "evidentials"]]
 [[Supplementary Material for Semantics Term Paper#Thesis (3) -te- sentences as expressing an assertion made from a perspective (EAT).]]
 
+# 4. Assessment
+## 4.1 How our account explain constraints on -te-
+In section 1.2, we discussed various constraints on -te-. In this section, we explain how our account comprehensively explain those constraints. 
 
-# 4. Comparisons with previous accounts
+### 4.1.2 Speaker's Personal Observation constraint
+- First, we will clarify this constraint. Note that this Personal Observation constraint is just for paradigm cases. In non-paradigm cases, this personal observation constraint might not be met.
+
+4a (Watchin the news that Biden will visit Korea the next week) "바이든이 다음주에 오더라." Biden will come the next week.
+5a (Looking at the dark clouds) "곧 비가 오겠더라." [It seems that] It is going to rain soon.
+
+Note that there is no change in felicitousity if we delted -te- from above sentences if the context remains the same. 
+
+4b (Watchin the news that Biden will visit Korea the next week) "바이든이 다음주에 와." Biden will come the next week.
+5b (Looking at the dark clouds) "곧 비가 오겠어." [It seems that]It is going to rain soon.
+
+But if we change the context so that the type of evidence the speaker is weakened, both -te- assertion and plain assertion becomes infellicitous.
+
+(Different Context: Speaker heard a rumor that Biden might visit Korea the next week.) 
+\# "바이든이 다음주에 오더라."
+\# "바이든이 다음주에 와."
+
+
+
+
+We argued that the evidential requirement -te- assertion comes from the fact that it is an assertion. So it has the same evidential requirement from the assertion without -te-. There is no difference in evidential requirement if we delete -te- from -te- assertions.
+- 
+### 4.1.2 Equi-subject Constraint and Non-equi-subject 
+- 
 # 5. Cross-linguistic implications
 # 6. Conclusion
 
