@@ -293,31 +293,30 @@ C:: Hee - I rephrased the highlighted sentence. Please check.
 ## Thesis (3) Evidentiality without "evidentials"
 - How we differ from Lee or Chung's account
 =======
-# 3. Our Account: '더' as marking perspective 
+# 3. Our Account: -te- as marking perspective 
 ## Thesis (1) what *-te-* is not
-### -te- is not necessary modal. (Contra Lee)
-We propose a new understanding of the Korean "-te-" marker in assertive sentences. Our perspective diverges from previous studies, particularly Lee (2013) who analyzed -te- as a necessity modal. However, we argue that -te- is not a necessity modal.
+### *-te-* is not a necessary modal (Contra Lee).
+Our perspective diverges from previous studies, particularly Lee (2013) who analyzed -te- as a necessity modal.
 
 Lee (2013) presents a lexical entry for -te- as seen in data 22, which is as follows: 
-$[[-te]] = \lambda P_{<s,<i,t>>}.\lambda w.\lambda t. \exists t''[t''<t \land \forall w'[w' \in BEST(SO,ST/DX, w, t'') \rightarrow P(w')(t''))]]$ This lexical entry, however, faces difficulty in explaining data such as the following scenario:
 
-Context1: There was a murder in the neighborhood of John: Bill was murdered by someone. John is a close friend to Bill. He lives next door and he is one of the officials who investigated the incident. John saw that Bill and Tom fought heavily the day before the murder. (Tom said "I will kill you.") And he saw that Tom buying a gun and bullets right after the fight. What he also saw was Tom going toward the direction to Bill's house on the day of the murder. And by investigating the situation, he found out that the type of bullet that Tom bought the day before the murder was the same kind of bullet that Bill had been shot. The next day of the murder, John talks to his officer friend about the murder.
-1a. \# "톰이 빌을 쏜 것이 틀림없어" (It must be the case that Tom shoot Bill.)
-1b. "톰이 빌을 쐈더라." ([It is observed by the speaker] Tom shoot Bill.)
+$[[-te]] = \lambda P_{<s,<i,t>>}.\lambda w.\lambda t. \exists t''[t''<t \land \forall w'[w' \in BEST(SO,ST/DX, w, t'') \rightarrow P(w')(t''))]]$ 
 
-1.  In this situation, John can felicitously assert the necessity epistemic modal: "톰이 빌을 쏜 것이 틀림없어" (It must be the case that Tom shoot Bill.)
-2.  But, John cannot felicitously assert -te- sentence: "톰이 빌을 쐈더라." ([It is observed by the speaker] Tom shoot Bill.)
-3.  But by if we follow Lee (2013)'s analysis of _-te-_ and take lexical entry of $[[-te-]]$, John can felicitously assert that "톰이 빌을 쐈더라."
+This lexical entry, however, faces difficulty in explaining data such as the following scenario:
+
+Context 1: There was a murder in the neighborhood of John, a police officer: Bill was murdered by someone. John is a close friend of Bill. He lives next door and he is one of the officers who investigated the incident. John saw that Bill and Tom fought heavily the day before the murder. (John heard Tom saying "I will kill you.") And he saw Tom buying a gun and bullets right after the fight. What he also saw was Tom going towards Bill's place on the day of the murder. And by investigating the crime, he found out that the type of bullet that Tom bought matched the kind of bullet that Bill had been shot with. The next day, after finding all this out, John talks to his colleague officer about the murder.
+1a.  John: "톰이 빌을 쏜 것이 틀림없어" (It must be the case that Tom shot Bill/Tom must have shot Bill.)
+1b. John: \#"톰이 빌을 쐈더라." ([It is observed by the speaker that] Tom shot Bill.)
  
-1 is because given his sensory observations of evidences (modal base) and stereotypical/doxastic ordering source, the proposition that Tom shoot Bill is true in all epistemic alternative worlds for John. However, it is infellicitous speak assert -te- sentence "톰이 빌을 쐈더라." 
+(1a), an epistemic necessity modal sentence is felicitous in Context 1, because, given his sensory observations of evidences (modal base) and stereotypical/doxastic ordering source, the proposition that Tom shot Bill is true in all the best possible epistemic worlds for John. However, it is still infelicitous to utter a -te- assertion, as in (1b). This is unexpected if we follow Lee's (2013) analysis of -te- and accept its lexcial entry, which essentially assumes an epitemic necessity modal. Even if the evidence John acquired through his sensory observation is strong enough to eliminate epistemic (stereotypical/doxastic) alternatives such that Tom didn't shoot Bill, one cannot utter a -te- assertion. 
 
-This example illustrates that Lee's lexical entry for -te- is unable to explain why John cannot felicitously assert the sentence "톰이 빌을 쐈더라" using -te-, even though the evidence he acquired through sensory observation is strong enough to eliminate epistemic (stereotypical/doxastic) alternatives. In contrast, John can felicitously assert the sentence in different situations in which he watched the murder scene himself. 
+In contrast, if John watched the murder scene himself, he can felicitously assert the sentence in different situations using -te-:
 
-Context2: John saw the scene Tom shooting Bill.
-2a. \# "톰이 빌을 쏜 것이 틀림없어" (It must be the case that Tom shoot Bill.)
-2b. "톰이 빌을 쐈더라." ([It is observed by the speaker] Tom shoot Bill.)
+Context 2: John saw the scene Tom shooting Bill.
+2a. \# "톰이 빌을 쏜 것이 틀림없어" (It must be the case that Tom shot Bill.)
+2b. "톰이 빌을 쐈더라." ([It is observed by the speaker that] Tom shot Bill.)
 
-This suggests that in order to make -te- assertion, John is not just required to have sensory observation of evidence, but is required to directly observation of the eventuality. In other words, not only sensory observation that has strong modal connection to the event is required for John, but sensory observation of the event itself is required to assert using '-te-' in this context. Lee's lexical entry does not have that kind of constraints (sensory observation of the event itself) so it wrongly predicts that it is felicitous to speak 1b.
+This suggests that in order to make a -te- assertion, John is not just required to have sensory observation of evidence, but is required to have a direct observation of the eventuality. In other words, not only sensory observation that has strong modal connection to the event is required for John, but sensory observation of the event itself is required to assert using '-te-' in this context. Lee's lexical entry does not have that kind of constraints (sensory observation of the event itself) so it wrongly predicts that it is felicitous to speak 1b.
 
 ###### Draft and ingredient
 [[Supplementary Material for Semantics Term Paper#Thesis 1: What -te- is not]]
@@ -326,7 +325,7 @@ This suggests that in order to make -te- assertion, John is not just required to
 
 We argue that -te- is not an evidential marker. Our perspective diverges from the mainstream views in previous studies, notably Lee (2013) and Lim (2010) who argue that -te- is a morpheme that marks evidentiality.
 
-In this respect, our account is similar to Chung (2007)'s account. Chung also argues that -te- is not an evidential marker. Instead, Chung proposed that morphemes like -ass- or -kyess-, or ø, when appeared in -te- sentences, play the role of evidential marker that contributes the meaning of evidentiality to -te- sentences. Morphemes like -ass- or -kyess- are tense morphemes in other contexts, but with -te-, they become evidentials. This ambiguity thesis of Korean tense morphemes, however, has faced serious objections, as we have seen in previous chapters. It is neither independently motivated nor correctly predicts indirect/direct distinctions.
+In this respect, our account is similar to Chung (2007)'s account. Chung also argues that -te- is not an evidential marker. Instead, Chung proposed that morphemes like -ass- or -kyess-, or ø, when appeared in -te- sentences, play the role of evidential marker that contributes the meaning of evidentiality to -te- sentences. Morphemes like -ass- or -keyss- are tense morphemes in other contexts, but with -te-, they become evidentials. This ambiguity thesis of Korean tense morphemes, however, has faced serious objections, as we have seen in previous chapters. It is neither independently motivated nor correctly predicts indirect/direct distinctions.
 
 We acknowledge that there is a propositional-level evidentiality in -te- assertive sentences, in that the speaker must have an appropriate level of evidence in order to felicitously assert the -te- sentence. However, we argue that this evidential element is not added by '-te-', as Lee and Lim argued, or by '-ass-,' 'kyess,' or ø, as in Chung's account. Instead, we argue that this evidentiality is the result of conversational implicature of assertion, not something that is contributed by an evidential marker.
 
