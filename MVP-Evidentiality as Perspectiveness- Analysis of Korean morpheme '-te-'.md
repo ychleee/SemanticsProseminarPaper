@@ -244,19 +244,7 @@ We argue that in Korean -te- assertive sentences, there is no evidential morphem
 1. direct evidence
 # 3. Our Account: *-te-* as marking perspective 
 ## 3.1. what *-te-* is not
-### 3.1.1. *-te-* is not necessary modal. (Contra Lee)
-- Lee (2013) analyzes -te- as a necessity modal. But we argue that it is not. Below is Lee's analysis:
 
-data:: 22 $[[-te]] = \lambda P_{<s,<i,t>>}.\lambda w.\lambda t. \exists t''[t''<t \land \forall w'[w' \in BEST(SO,ST/DX, w, t'') \rightarrow P(w')(t''))]]$
-
-- We argue that the lexical entry in 22 faces difficulty in explaining data like below:
-- Context: There was a murder in the neighborhood of John: Bill was murdered by someone. John is a close friend of Bill. He lives next door and he is one of the officials who investigated the incident. John saw that Bill and Tom fought heavily the day before the murder. (John heard Tom saying, "I will kill you.") And he saw Tom buying a gun and bullets right after the fight. What he also saw was Tom going towards Bill's house on the day of the murder. And by investigating the crime, he found out that the type of bullet that Tom bought the day before the murder matched the kind of bullet that Bill had been shot with. The next day, after all finding all this out, John talks to his officer friend about the murder.
-1. In this situation, John can felicitoulsy assert a necessity epistemic modal sentence: "톰이 빌을 쏜 것이 틀림없어" (It must be the case that Tom shot Bill/Tom must have shot Bill.)
-2. In contrast, John cannot felicitously assert a *-te-* sentence: "톰이 빌을 쐈더라." ([It is observed by the speaker that] Tom shot Bill.)
-3. However, if we follow Lee (2013)'s analysis of *-te-* and accept the lexical entry of $[[-te-]]$ in 22, John should be able to felicitously assert the *-te-* sentence: "톰이 빌을 쐈더라."
-		- It is because, given his sensory observations of evidences (Modal Base) and stereotypical/doxastic Ordering Source, the proposition that Tom shot Bill is true in all the best possible epistemic worlds. 
-			- We can explain it further like this: 
-C:: Hee - ==We can explain it further like this:== ??
 
 ### *- te-* is not a morpheme that marks propositional-level evidentiality. 
 - Lee and Lim both argue that *-te-* is a morpheme that marks a propositional-level evidentiality, which is a relation between speaker and the proposition. 
@@ -296,9 +284,7 @@ C:: Hee - I rephrased the highlighted sentence. Please check.
 # 3. Our Account: -te- as marking perspective 
 ## Thesis (1) what *-te-* is not
 ### *-te-* is not a necessary modal (Contra Lee).
-Our perspective diverges from previous studies, particularly Lee (2013) who analyzed -te- as a necessity modal.
-
-Lee (2013) presents a lexical entry for -te- as seen in data 22, which is as follows: 
+Our perspective diverges from previous studies, particularly Lee (2013) who analyzed -te- as a necessity modal. Lee (2013) presents a lexical entry for -te- as seen in data 22, which is as follows: 
 
 $[[-te]] = \lambda P_{<s,<i,t>>}.\lambda w.\lambda t. \exists t''[t''<t \land \forall w'[w' \in BEST(SO,ST/DX, w, t'') \rightarrow P(w')(t''))]]$ 
 
@@ -316,12 +302,12 @@ Context 2: John saw the scene Tom shooting Bill.
 2a. \# "톰이 빌을 쏜 것이 틀림없어" (It must be the case that Tom shot Bill.)
 2b. "톰이 빌을 쐈더라." ([It is observed by the speaker that] Tom shot Bill.)
 
-This suggests that in order to make a -te- assertion, John is not just required to have sensory observation of evidence, but is required to have a direct observation of the eventuality. In other words, not only sensory observation that has strong modal connection to the event is required for John, but sensory observation of the event itself is required to assert using '-te-' in this context. Lee's lexical entry does not have that kind of constraints (sensory observation of the event itself) so it wrongly predicts that it is felicitous to speak 1b.
+This suggests that in order to make a -te- assertion, John is not just required to have sensory observation of evidence, but is required to have a direct observation of the eventuality. In other words, not only sensory observation that has strong modal connection to the event is required for John, but sensory observation of the event itself is required to assert using -te- in this context. Lee's lexical entry does not have that kind of constraints (sensory observation of the event itself) so it wrongly predicts the felicity of (1b).
 
 ###### Draft and ingredient
 [[Supplementary Material for Semantics Term Paper#Thesis 1: What -te- is not]]
 
-### - te- is not a morpheme that marks propositional-level evidentiality.
+### -te- is not a morpheme that marks propositional-level evidentiality.
 
 We argue that -te- is not an evidential marker. Our perspective diverges from the mainstream views in previous studies, notably Lee (2013) and Lim (2010) who argue that -te- is a morpheme that marks evidentiality.
 
@@ -338,8 +324,9 @@ context 1: (John did not observed the murder scene) John is saying to his friend
 1b. #"톰이 빌을 쐈더라." [the speaker observed that] Tom shoot Bill. 
 1c. #"톰이 빌을 쐈어." Tom shoot Bill.
 
-context 2: (John observed the murder scene) John is saying to his friend, 2a. # "톰이 빌을 쏜 것이 틀림없어."
-2b. "톰이 빌을 쐈더라." [The speaker observed that] Tom shoot Bill 
+context 2: (John observed the murder scene) John is saying to his friend, 
+2a. # "톰이 빌을 쏜 것이 틀림없어."
+2b. "톰이 빌을 쏘더라/쐈더라." [The speaker observed that] Tom shoot Bill 
 2c. "톰이 빌을 쐈어." Tom shoot Bill
 
 In the first context, John did not observe the murder scene himself, so he cannot felicitously assert the -te- sentence "톰이 빌을 쐈더라." or the plain assertion "톰이 빌을 쐈어." as he does not have direct observational evidence. He can only felicitously assert the necessity epistemic modal "톰이 빌을 쏜 것이 틀림없어." which denotes that given his sensory observations of evidences and stereotypical/doxastic ordering source, the proposition that Tom shoot Bill is true in all epistemic alternative worlds for John.
